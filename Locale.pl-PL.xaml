@@ -3,11 +3,11 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
    <!-- String resource that can be localized -->
-    <system:String x:Key="btiInformationCP">Information</system:String>
-    <system:String x:Key="mmSupportCP">Support</system:String>
-    <system:String x:Key="btnUpdateCheckCP">Check Now</system:String>
-    <system:String x:Key="btnUpdateCheckHCP">Check for Updates</system:String>
-    <system:String x:Key="btnUpdateCheckICP">Checks for updates to make sure you have the latest version.</system:String>
+    <system:String x:Key="btiInformationCP">Informacje</system:String>
+    <system:String x:Key="mmSupportCP">Wsparcie</system:String>
+    <system:String x:Key="btnUpdateCheckCP">Sprawdź teraz</system:String>
+    <system:String x:Key="btnUpdateCheckHCP">Sprawdź aktualizacje</system:String>
+    <system:String x:Key="btnUpdateCheckICP">Sprawdź aktualizacje, by mieć pewność, że masz najnowszą wersje.</system:String>
     <system:String x:Key="stUpdateAvailableCP">There is new version (VER) available.</system:String>
     <system:String x:Key="stUpdateNotAvailableCP">Better Explorer is up-to date.</system:String>
     <system:String x:Key="btnOpenWebsite">Open Website</system:String>
