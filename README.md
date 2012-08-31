@@ -1,5 +1,7 @@
 # BetterExplorer Translations
 
+Last added into BetterExplorer 8.30.2012
+
 ## How to add a new language
 
 Contact JaykeBird by clicking on his name at the top of the page and click on the e-mail link. He will create the translation file for you and add it here for you to edit.
