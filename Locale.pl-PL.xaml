@@ -8,7 +8,7 @@
     <system:String x:Key="btnUpdateCheckCP">Sprawdź teraz</system:String>
     <system:String x:Key="btnUpdateCheckHCP">Sprawdź aktualizacje</system:String>
     <system:String x:Key="btnUpdateCheckICP">Sprawdź aktualizacje, aby upewnić się, że masz najnowszą wersję.</system:String>
-    <system:String x:Key="stUpdateAvailableCP">Nowa wersja (WER) jest dostępna.</system:String>
+    <system:String x:Key="stUpdateAvailableCP">Nowa wersja jest dostępna. (VER)</system:String>
     <system:String x:Key="stUpdateNotAvailableCP">Better Explorer jest aktualny.</system:String>
     <system:String x:Key="btnOpenWebsite">Strona WWW</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Odwiedź stronę internetową BetterExplorer</system:String>
