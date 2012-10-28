@@ -1,6 +1,6 @@
 # BetterExplorer Translations
 
-Last added into BetterExplorer 8.30.2012
+Last added into BetterExplorer 10.27.2012
 
 ## How to add a new language
 
