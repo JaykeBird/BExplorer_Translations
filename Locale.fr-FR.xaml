@@ -125,12 +125,12 @@
     <system:String x:Key="tgShowHideCP">Afficher/Masquer</system:String>
     <system:String x:Key="tbPanesCP">Volets</system:String>
     <system:String x:Key="btnNavigationCP">Volet de navigation</system:String>
-    <system:String x:Key="btnNavigationTCP">Volet de navigation</system:String>
+    <system:String x:Key="btnNavigationTCP">Affiche le volet de navigation</system:String>
     <system:String x:Key="btnNavigationTTX">Affiche le volet de navigation sur le côté gauche de la fenêtre et liste les dossiers, bibliothèques et disques.</system:String>
-    <system:String x:Key="btnInfoCP">Afficher le volet de détails</system:String>
+    <system:String x:Key="btnInfoCP">Volet de détails</system:String>
     <system:String x:Key="btnInfoTCP">Afficher le volet de détails</system:String>
     <system:String x:Key="btnInfoTTX">Afficher le volet de détails, ce qui vous permet de voir des informations détaillées sur les éléments sélectionnés.</system:String>
-    <system:String x:Key="btnPreviewCP">Afficher le volet de visualisation</system:String>
+    <system:String x:Key="btnPreviewCP">Volet de visualisation</system:String>
     <system:String x:Key="btnPreviewTCP">Afficher le volet de visualisation</system:String>
     <system:String x:Key="btnPreviewTTX">Afficher le volet de visualisation sur le côté gauche de la fenêtre, ce qui vous permet de voir le contenu d'un fichier sans l'ouvrir, mais seulement si votre système le permet.</system:String>
     <system:String x:Key="btnExtraLargeICP">Très grandes icônes</system:String>
