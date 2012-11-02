@@ -111,7 +111,7 @@
     <system:String x:Key="btnUndoCloseHCP">Rouvrir l'onglet précédemment fermé</system:String>
     <system:String x:Key="btnSavedTabsCP">Onglets sauvegardés</system:String>
     <system:String x:Key="btnSavedTabsHCP">Sauvegarder un groupe d'onglets préférés ou rouvrir un groupe d'onglets sauvegardés</system:String>
-    <system:String x:Key="tbShareCP">Partager</system:String>
+    <system:String x:Key="tbShareCP">Partage</system:String>
     <system:String x:Key="tgCompressCP">Compresser</system:String>
     <system:String x:Key="btnMakeArchiveCP">Créer une archive</system:String>
     <system:String x:Key="btnMakeArchiveICP">Ouvre l’assistant de création d’archive (fichier compressé), lequel vous aide à créer une archive avec les fichiers sélectionnés.</system:String>
