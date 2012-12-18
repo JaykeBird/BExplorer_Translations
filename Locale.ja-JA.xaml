@@ -33,7 +33,7 @@
     <system:String x:Key="cbIsResttoreCP">BetterExplorerの起動時タブを復元</system:String>
     <system:String x:Key="cbIsResttoreTTX">最後に開いていた場所とタブを復元します。</system:String>
     <system:String x:Key="chkLogHistoryCP">操作のログを取る</system:String>
-    <system:String x:Key="chkLogHistoryHCP"移動、リネーム、削除などの操作をログに記録します。 1ウィンドウにつき1つのログファイルが作成されます。</system:String>
+    <system:String x:Key="chkLogHistoryHCP">移動、リネーム、削除などの操作をログに記録します。 1ウィンドウにつき1つのログファイルが作成されます。</system:String>
     <system:String x:Key="tabLanguageCP">言語</system:String>
     <system:String x:Key="sepLanguageCP">言語選択</system:String>
     <system:String x:Key="lblLanguageCP">BetterExplorerの表示言語を選択できます:（要再起動）</system:String>
