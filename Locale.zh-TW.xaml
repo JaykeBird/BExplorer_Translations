@@ -91,7 +91,7 @@
     <system:String x:Key="btnPasteTTX">將剪貼板中的文件粘貼到目錄</system:String>
     <system:String x:Key="btnCutCP">剪切</system:String>
     <system:String x:Key="btnCopyPathCP">複製路徑</system:String>
-    <system:String x:Key="btnCopyPTTX">Copies the path of the selected item(s) or of the folder currently open, if no item is selected</system:String>
+    <system:String x:Key="btnCopyPTTX">複製已選項目或者當前目錄的路徑</system:String>
     <system:String x:Key="btnPasteScCP">粘貼快捷方式</system:String>
     <system:String x:Key="tgOrganizeCP">組織</system:String>
     <system:String x:Key="btnCopyToCP">複製到</system:String>
@@ -132,7 +132,7 @@
     <system:String x:Key="btnUndoCloseHCP">重新打開最近關閉的標籤</system:String>
     <system:String x:Key="miClearList">Clear List</system:String>
     <system:String x:Key="btnSavedTabsCP">保存標籤</system:String>
-    <system:String x:Key="btnSavedTabsHCP">Store a collection of your favorite tabs or open a previously-stored collection.</system:String>
+    <system:String x:Key="btnSavedTabsHCP">存儲一組已收藏的標籤，或打開預先存儲的集合。</system:String>
     <system:String x:Key="miSaveTabs">Save Current Tabs</system:String>
     <system:String x:Key="tbShareCP">共享</system:String>
     <system:String x:Key="tgCompressCP">壓縮</system:String>
@@ -333,14 +333,12 @@
     <system:String x:Key="txtIsAfter">is after</system:String>
     <system:String x:Key="txtDateIs">is the same as</system:String>
     <system:String x:Key="txtRemoveFilter">To remove filter, leave all values blank</system:String>
-    <system:String x:Key="txtSetFilter">Set <value> filter:</system:String>
+    <system:String x:Key="txtSetFilter">Set (VAL) filter:</system:String>
     <system:String x:Key="txtCurrentValue">Current Value:</system:String>
     <system:String x:Key="txtSelect">Select</system:String>
     <system:String x:Key="txtCancel">Cancel</system:String>
     <system:String x:Key="txtOK">OK</system:String>
     <system:String x:Key="txtNext">Next</system:String>
     <system:String x:Key="txtBrowse">Browse...</system:String>
-    <system:String x:Key=" btnCopyPTTX">複製已選項目或者當前目錄的路徑</system:String>
-    <system:String x:Key="btnSavedTabsHCP ">存儲一組已收藏的標籤，或打開預先存儲的集合。</system:String>
 
 </ResourceDictionary>

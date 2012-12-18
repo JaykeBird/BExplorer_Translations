@@ -333,14 +333,12 @@
     <system:String x:Key="txtIsAfter">is after</system:String>
     <system:String x:Key="txtDateIs">is the same as</system:String>
     <system:String x:Key="txtRemoveFilter">To remove filter, leave all values blank</system:String>
-    <system:String x:Key="txtSetFilter">Set <value> filter:</system:String>
+    <system:String x:Key="txtSetFilter">Set (VAL) filter:</system:String>
     <system:String x:Key="txtCurrentValue">Current Value:</system:String>
     <system:String x:Key="txtSelect">Select</system:String>
     <system:String x:Key="txtCancel">Cancel</system:String>
     <system:String x:Key="txtOK">OK</system:String>
     <system:String x:Key="txtNext">Next</system:String>
     <system:String x:Key="txtBrowse">Browse...</system:String>
-    <system:String x:Key=" btnCopyPTTX">複製已選項目或者當前目錄的路徑</system:String>
-    <system:String x:Key="btnSavedTabsHCP ">存儲一組已收藏的標籤，或打開預先存儲的集合。</system:String>
 
 </ResourceDictionary>
