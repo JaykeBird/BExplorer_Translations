@@ -3,15 +3,15 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
    <!-- String resource that can be localized -->
-    <system:String x:Key="btiInformationCP">Information</system:String>
-    <system:String x:Key="mmSupportCP">Support</system:String>
-    <system:String x:Key="btnUpdateCheckCP">Check Now</system:String>
-    <system:String x:Key="btnUpdateCheckHCP">Check for Updates</system:String>
-    <system:String x:Key="btnUpdateCheckICP">Checks for updates to make sure you have the latest version.</system:String>
-    <system:String x:Key="stUpdateAvailableCP">There is new version (VER) available.</system:String>
-    <system:String x:Key="stUpdateNotAvailableCP">Better Explorer is up-to date.</system:String>
-    <system:String x:Key="btnOpenWebsite">Open Website</system:String>
-    <system:String x:Key="btnOpenWebsiteHCP">Visit BetterExplorer's Website</system:String>
+    <system:String x:Key="btiInformationCP">Információ</system:String>
+    <system:String x:Key="mmSupportCP">Támogatás</system:String>
+    <system:String x:Key="btnUpdateCheckCP">Ellenőrzés most</system:String>
+    <system:String x:Key="btnUpdateCheckHCP">Frissítések ellenőrzése</system:String>
+    <system:String x:Key="btnUpdateCheckICP">Frissítések ellenőrzése a mindenkori legfrissebb verzió letöltéséhez.</system:String>
+    <system:String x:Key="stUpdateAvailableCP">Új verzió (VER) érhető el.</system:String>
+    <system:String x:Key="stUpdateNotAvailableCP">Ez a legfrissebb Better Explorer.</system:String>
+    <system:String x:Key="btnOpenWebsite">Honlap megnyitása</system:String>
+    <system:String x:Key="btnOpenWebsiteHCP">A BetterExplorer honlapjának meglátogatása</system:String>
     <system:String x:Key="btnOpenWebsiteICP">Visit this website to try the latest test builds, ask for help, report an issue, and more.</system:String>
     <system:String x:Key="lblBetterExText">Better Explorer - The better explorer replacment</system:String>
     <system:String x:Key="lblBetterExInfo">This is a Windows Explorer replacement that adds several handy features, such as the Ribbon, tabs, and other things.</system:String>
@@ -321,24 +321,24 @@
     <system:String x:Key="txtDoesNotContain">does not contain</system:String>
     <system:String x:Key="txtIsNot">is not</system:String>
     <system:String x:Key="txtMatchCase">Match case</system:String>
-    <system:String x:Key="txtFileSize">File Size</system:String>
-    <system:String x:Key="txtLargerThan">is larger than</system:String>
-    <system:String x:Key="txtSmallerThan">is smaller than</system:String>
-    <system:String x:Key="txtExactly">is exactly</system:String>
-    <system:String x:Key="txtIsBetween">is between</system:String>
-    <system:String x:Key="txtIsNotBetween">is not between</system:String>
-    <system:String x:Key="txtDateAccessed">Date Accessed</system:String>
-    <system:String x:Key="txtAnd">and</system:String>
-    <system:String x:Key="txtIsBefore">is before</system:String>
-    <system:String x:Key="txtIsAfter">is after</system:String>
-    <system:String x:Key="txtDateIs">is the same as</system:String>
-    <system:String x:Key="txtRemoveFilter">To remove filter, leave all values blank</system:String>
-    <system:String x:Key="txtSetFilter">Set (VAL) filter:</system:String>
-    <system:String x:Key="txtCurrentValue">Current Value:</system:String>
-    <system:String x:Key="txtSelect">Select</system:String>
-    <system:String x:Key="txtCancel">Cancel</system:String>
-    <system:String x:Key="txtOK">OK</system:String>
-    <system:String x:Key="txtNext">Next</system:String>
-    <system:String x:Key="txtBrowse">Browse...</system:String>
+    <system:String x:Key="txtFileSize">Fájlméret</system:String>
+    <system:String x:Key="txtLargerThan">nagyobb, mint</system:String>
+    <system:String x:Key="txtSmallerThan">kisebb, mint</system:String>
+    <system:String x:Key="txtExactly">potnosan</system:String>
+    <system:String x:Key="txtIsBetween">között van</system:String>
+    <system:String x:Key="txtIsNotBetween">nincs között</system:String>
+    <system:String x:Key="txtDateAccessed">Hozzáférési dátum</system:String>
+    <system:String x:Key="txtAnd">és</system:String>
+    <system:String x:Key="txtIsBefore">előtt</system:String>
+    <system:String x:Key="txtIsAfter">után</system:String>
+    <system:String x:Key="txtDateIs">ugyanaz, mint</system:String>
+    <system:String x:Key="txtRemoveFilter">A szűrő eltávolításához hagyj mindent üresen</system:String>
+    <system:String x:Key="txtSetFilter">(VAL) szűrő megadása:</system:String>
+    <system:String x:Key="txtCurrentValue">jelenlegi érték:</system:String>
+    <system:String x:Key="txtSelect">Kiválaszt</system:String>
+    <system:String x:Key="txtCancel">Mégse</system:String>
+    <system:String x:Key="txtOK">Rendben</system:String>
+    <system:String x:Key="txtNext">Következő</system:String>
+    <system:String x:Key="txtBrowse">Tallózás...</system:String>
 
 </ResourceDictionary>
