@@ -50,7 +50,7 @@
     <system:String x:Key="chkEveryweek">Hetene</system:String>
     <system:String x:Key="chkEverymonth">Havonta</system:String>
     <system:String x:Key="txtUpdateChannel">Frissítési csatorna</system:String>
-    <system:String x:Key="chkReleasesChannel">Csak kiadott verziók (ajánlott)</system:String>
+    <system:String x:Key="chkReleasesChannel">Csak a kiadott verziók (ajánlott)</system:String>
     <system:String x:Key="chkDevChannel">Kiadott és tesztverziók</system:String>
     <system:String x:Key="txtTestBuildWarning">Figyelem! A tesztverziók hasznosak az új lehetőségek kipróbálása szempontjából, de néha veszélyesek is lehetnek!</system:String>
     <system:String x:Key="txtAdvancedUpdateSettings">Haladó beállítások</system:String>
