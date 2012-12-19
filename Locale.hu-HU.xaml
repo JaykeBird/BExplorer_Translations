@@ -220,8 +220,8 @@
     <system:String x:Key="tgImgEditCP">Szerkesztés</system:String>
     <system:String x:Key="btnRotateLeftCP">Forgatás balra</system:String>
     <system:String x:Key="btnRotateRightCP">Forgatás jobbra</system:String>
-    <system:String x:Key="btnFlipXCP">Flip Horizontally</system:String>
-    <system:String x:Key="btnFlipYCP">Flip Vertically</system:String>
+    <system:String x:Key="btnFlipXCP">Megfordítás vízszintesen</system:String>
+    <system:String x:Key="btnFlipYCP">Megfordítás függőlegesen</system:String>
     <system:String x:Key="btnConvertImageCP">Konvertálás</system:String>
     <system:String x:Key="miJPGfCP">JPEG-be</system:String>
     <system:String x:Key="miPNGfCP">PNG-be</system:String>
