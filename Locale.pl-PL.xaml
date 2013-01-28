@@ -123,11 +123,11 @@
     <system:String x:Key="miCondSelectCP">Więcej warunków...</system:String>
     <system:String x:Key="tgTabsCP">Karty</system:String>
     <system:String x:Key="btnNewTabCP">Nowa karta</system:String>
-    <system:String x:Key="btnCloneTabCP">Sklonuj kartę</system:String>
+    <system:String x:Key="btnCloneTabCP">Duplikuj kartę</system:String>
     <system:String x:Key="btnCloseTabCP">Zamknij kartę</system:String>
     <system:String x:Key="btnNewTabTCP">Otwórz nową kartę (CTRL + T)</system:String>
     <system:String x:Key="btnNewTabTTX">Otwórz nową kartę obok obecnej w domyślnej lokalizacji</system:String>
-    <system:String x:Key="btnCloneTabTTX">Duplikuj kartę</system:String>
+    <system:String x:Key="btnCloneTabTTX">Otwórz nową kartę w tej samej lokalizacji, co obecnie przeglądana</system:String>
     <system:String x:Key="btnUndoCloseCP">Przywróć ostatnio zamkniętą kartę</system:String>
     <system:String x:Key="btnUndoCloseHCP">Ponownie otwiera niedawno zamkniętą kartę.</system:String>
     <system:String x:Key="miClearList">Clear List</system:String>
