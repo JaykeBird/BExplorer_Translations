@@ -1,6 +1,6 @@
 # BetterExplorer Translations
 
-Last added into [BetterExplorer] (https://github.com/DimitarCC/BetterExplorer) 12.3.2012
+Last added into [BetterExplorer] (https://github.com/DimitarCC/BetterExplorer) 9.2.2012 (9 Feb)
 
 ## How to add a new language
 
