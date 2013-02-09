@@ -334,10 +334,10 @@
     <system:String x:Key="txtDateIs">is the same as</system:String>
     <system:String x:Key="txtRemoveFilter">To remove filter, leave all values blank</system:String>
     <system:String x:Key="txtSetFilter">Set (VAL) filter:</system:String>
-    <system:String x:Key="txtCurrentValue">Current Value:</system:String>
-    <system:String x:Key="txtSelect">Select</system:String>
-    <system:String x:Key="txtCancel">Cancel</system:String>
-    <system:String x:Key="txtOK">OK</system:String>
-    <system:String x:Key="txtNext">Next</system:String>
-    <system:String x:Key="txtBrowse">Browse...</system:String>
+    <system:String x:Key="txtCurrentValue">Valor ACtual:</system:String>
+    <system:String x:Key="txtSelect">Seleccionar</system:String>
+    <system:String x:Key="txtCancel">Cancelar</system:String>
+    <system:String x:Key="txtOK">Aceptar</system:String>
+    <system:String x:Key="txtNext">Siguiente</system:String>
+    <system:String x:Key="txtBrowse">Buscar...</system:String>
 </ResourceDictionary>
