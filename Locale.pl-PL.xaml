@@ -316,7 +316,7 @@
     <system:String x:Key="txtFilename">Nazwa pliku</system:String>
     <system:String x:Key="txtContains">zawiera</system:String>
     <system:String x:Key="txtStartsWith">zaczyna się</system:String>
-    <system:String x:Key="txtEndsWith">kończy się/system:String>
+    <system:String x:Key="txtEndsWith">kończy się</system:String>
     <system:String x:Key="txtIs">jest dokładnie</system:String>
     <system:String x:Key="txtDoesNotContain">nie zawiera</system:String>
     <system:String x:Key="txtIsNot">nie jest</system:String>
