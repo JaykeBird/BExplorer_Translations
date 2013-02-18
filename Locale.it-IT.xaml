@@ -13,7 +13,7 @@
     <system:String x:Key="btnOpenWebsite">Apri il sito web</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Visita il sito di BetterExplorer</system:String>
     <system:String x:Key="btnOpenWebsiteICP">Visitate questo sito per provare l'ultima versione, chiedere aiuto, segnalare un problema, e altro ancora.</system:String>
-    <system:String x:Key="lblBetterExText">Better Explorer - The better explorer replacment</system:String>
+    <system:String x:Key="lblBetterExText">Better Explorer - Il miglior sostituto di Esplora Risorset</system:String>
     <system:String x:Key="lblBetterExInfo">Questa è una alternativa di Windows Explorer che aggiunge funzionalità pratiche, come un'interfaccia della barra multifunzione, le schede, e altre cose.</system:String>
     <system:String x:Key="lblAboutBEHeader">Informazioni su BetterExplorer</system:String>
     <system:String x:Key="lblDevelopersHeader">Gli sviluppatori principali:</system:String>
@@ -40,7 +40,7 @@
     <system:String x:Key="sepLanguageCP">Cambia Lingua</system:String>
     <system:String x:Key="lblLanguageCP">Scegli la lingua da usare in BetterExplorer (Richiede il riavvio)</system:String>
     <system:String x:Key="txtTranslationHelp">Aiutaci a tradurre</system:String>
-    <system:String x:Key="txtHelpWebpage">Se qualcuno volesse aiutarci con la traduzione, andate sulla pagina web qui: (in Inglese)</system:String>
+    <system:String x:Key="txtHelpWebpage">Se qualcuno volesse aiutarci con la traduzione, può andare sulla pagina web qui: (in Inglese)</system:String>
     <system:String x:Key="txtTranslationCredits">Inoltre, vogliamo ringraziare tutti quelli che ci hanno aiutato con le traduzioni sino ad ora.</system:String>
     <system:String x:Key="tabUpdateCP">Aggiornamenti</system:String>
     <system:String x:Key="txtAutoUpdate">Aggiornamento automatico</system:String>
@@ -78,8 +78,8 @@
     <system:String x:Key="lblSavedTabsWarningCP">Attenzione: Cambiare la posizione predefinita provocherà la perdita della schede salvate attualmente.</system:String>
     <system:String x:Key="tabPanesItemsCP">Pannelli/Elementi</system:String>
     <system:String x:Key="chkTreeExpandCP">Espandi il pannello di navigazione alla cartella attuale *</system:String>
-    <system:String x:Key="chkTreeExpandTCP">Espandi il pannello di navigazione alla cartella attualer</system:String>
-    <system:String x:Key="sepOptionalCP">Display Optional Features</system:String>
+    <system:String x:Key="chkTreeExpandTCP">Espandi il pannello di navigazione alla cartella attuale</system:String>
+    <system:String x:Key="sepOptionalCP">Visualizza funzioni aggiuntive</system:String>
     <system:String x:Key="chkShowCheckBoxesCP">Mostra casella di controllo</system:String>
     <system:String x:Key="tbHomeCP">Inizio</system:String>
     <system:String x:Key="tgClipboardCP">Appunti</system:String>
@@ -112,7 +112,7 @@
     <system:String x:Key="btnOpenCP">Apri</system:String>
     <system:String x:Key="btnEditCP">Modifica</system:String>
     <system:String x:Key="btnHistoryCP">Storico</system:String>
-    <system:String x:Key="btnFavoritesCP">Favoriti</system:String>
+    <system:String x:Key="btnFavoritesCP">Preferiti</system:String>
     <system:String x:Key="tgSelectCP">Seleziona</system:String>
     <system:String x:Key="btnSelectAllCP">Seleziona tutto</system:String>
     <system:String x:Key="btnSelectNoneCP">Deseleziona</system:String>
@@ -132,8 +132,8 @@
     <system:String x:Key="btnUndoCloseHCP">Riapre le schede chiuse di recente.</system:String>
     <system:String x:Key="miClearList">Pulisci lista</system:String>
     <system:String x:Key="btnSavedTabsCP">Schede salvate</system:String>
-    <system:String x:Key="btnSavedTabsHCP">Store a collection of your favorite tabs or open a previously-stored collection.</system:String>
-    <system:String x:Key="miSaveTabs">Save Current Tabs</system:String>
+    <system:String x:Key="btnSavedTabsHCP">Memorizza una collezione delle schede preferite o apre una collezione precedentemente salvata.</system:String>
+    <system:String x:Key="miSaveTabs">Salva le schede attuali</system:String>
     <system:String x:Key="tbShareCP">Condividi</system:String>
     <system:String x:Key="tgCompressCP">Compresso</system:String>
     <system:String x:Key="btnMakeArchiveCP">Crea Archivio</system:String>
@@ -165,7 +165,7 @@
     <system:String x:Key="btnTilesICP">Elenco</system:String>
     <system:String x:Key="btnContentICP">Contenuto</system:String>
     <system:String x:Key="tgLayoutCP">Disposizione</system:String>
-    <system:String x:Key="tgCurrentViewCP">Vista Corrente</system:String>
+    <system:String x:Key="tgCurrentViewCP">Vista attuale</system:String>
     <system:String x:Key="btnSortByCP">Ordina per</system:String>
     <system:String x:Key="btnSortICP">Cambia il modo di ordinamento della cartella, e per quale categoria è ordinato</system:String>
     <system:String x:Key="miDescending">Discendente</system:String>
@@ -276,7 +276,7 @@
     <system:String x:Key="btnODateCCP">Data Creazione</system:String>
     <system:String x:Key="miDateTodayCP">Oggi</system:String>
     <system:String x:Key="miDateYesterdayCP">Ieri</system:String>
-    <system:String x:Key="miDateThisWeekCP">Settimana in corso</system:String>
+    <system:String x:Key="miDateThisWeekCP"> Questa settimana</system:String>
     <system:String x:Key="miDateLastWeekCP">Settimana scorsa</system:String>
     <system:String x:Key="miPastMonthCP">Mese scorso</system:String>
     <system:String x:Key="miDateCustomCP">Estensione temporale personalizzata...</system:String>
@@ -294,7 +294,7 @@
     <system:String x:Key="txtName">Nome</system:String>
     <system:String x:Key="txtPath">Percorso</system:String>
     <system:String x:Key="txtChooseName">Scegli un nome per raccolta di schede</system:String>
-    <system:String x:Key="txtOverwriteSavedTabs">Se questo nome già esiste, la vecchia raccolta sarà sovrascritta</system:String>
+    <system:String x:Key="txtOverwriteSavedTabs">Se questo nome esiste già, la vecchia raccolta sarà sovrascritta</system:String>
     <system:String x:Key="txtIllegalCharacters">Non può contenere questi caratteri: \ / : * ? &lt; &gt; |</system:String>
     <system:String x:Key="txtConfirmDelete">Vuoi davvero eliminare questa raccolta di schede</system:String>
     <system:String x:Key="txtSizeChart">Grafico grandezza Cartella/Disco</system:String>
@@ -330,7 +330,7 @@
     <system:String x:Key="txtDateAccessed">Data di accesso</system:String>
     <system:String x:Key="txtAnd">e</system:String>
     <system:String x:Key="txtIsBefore">è prima</system:String>
-    <system:String x:Key="txtIsAfter">è dopor</system:String>
+    <system:String x:Key="txtIsAfter">è dopo</system:String>
     <system:String x:Key="txtDateIs">è lo stesso di</system:String>
     <system:String x:Key="txtRemoveFilter">Per rimuovere i filtri, lascia vuoti tutti i valori</system:String>
     <system:String x:Key="txtSetFilter">Imposta (VAL) filtro:</system:String>
