@@ -130,10 +130,10 @@
     <system:String x:Key="btnCloneTabTTX">Créer un nouvel onglet, chargé avec le dossier courant</system:String>
     <system:String x:Key="btnUndoCloseCP">Rouvrir l'onglet précédant</system:String>
     <system:String x:Key="btnUndoCloseHCP">Rouvrir l'onglet précédemment fermé</system:String>
-    <system:String x:Key="miClearList">Clear List</system:String>
+    <system:String x:Key="miClearList">Effacer la liste</system:String>
     <system:String x:Key="btnSavedTabsCP">Onglets sauvegardés</system:String>
     <system:String x:Key="btnSavedTabsHCP">Sauvegarder un groupe d'onglets préférés ou rouvrir un groupe d'onglets sauvegardés</system:String>
-    <system:String x:Key="miSaveTabs">Save Current Tabs</system:String>
+    <system:String x:Key="miSaveTabs">Sauvegarder les onglets courants</system:String>
     <system:String x:Key="tbShareCP">Partage</system:String>
     <system:String x:Key="tgCompressCP">Compresser</system:String>
     <system:String x:Key="btnMakeArchiveCP">Créer une archive</system:String>
