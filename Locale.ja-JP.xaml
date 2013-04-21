@@ -9,7 +9,7 @@
     <system:String x:Key="btnUpdateCheckHCP">アップデートをチェック</system:String>
     <system:String x:Key="btnUpdateCheckICP">お使いのバージョンが最新版かどうかチェックします。</system:String>
     <system:String x:Key="stUpdateAvailableCP">利用可能な更新があります。</system:String>
-    <system:String x:Key="stUpdateNotAvailableCP">お使いバージョンは最新版です。</system:String>
+    <system:String x:Key="stUpdateNotAvailableCP">お使いのバージョンは最新版です。</system:String>
     <system:String x:Key="btnOpenWebsite">サイトを開く</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">BetterExplorerのウェブサイトを開く</system:String>
     <system:String x:Key="btnOpenWebsiteICP">このサイトでは最新のβ版をダウンロードしたり、バグを報告したりできます。</system:String>
