@@ -173,7 +173,7 @@
     <system:String x:Key="btnGroupByCP">分组方式</system:String>
     <system:String x:Key="btnAutoSizeColCP">自动列宽</system:String>
     <system:String x:Key="btnAutoSizeColICP">按照内容调整列的宽度</system:String>
-    <system:String x:Key="btnMoreColCP">更多列</system:String>
+    <system:String x:Key="btnMoreColCP">更多陈列项</system:String>
     <system:String x:Key="chkImagefilenameCP">图像文件名</system:String>
     <system:String x:Key="chkHiddenItemsCP">隐藏的项目</system:String>
     <system:String x:Key="chkExtensionsCP">文件扩展名</system:String>
@@ -286,7 +286,7 @@
     <system:String x:Key="btnSubjectCP">主题</system:String>
     <system:String x:Key="btnSearchCP">开始搜索</system:String>
     <system:String x:Key="btnSave">保存</system:String>
-    <system:String x:Key="btnSaveAs">另存为s</system:String>
+    <system:String x:Key="btnSaveAs">另存为</system:String>
     <system:String x:Key="btnAddTab">添加标签</system:String>
     <system:String x:Key="txtTabManager">标签管理器</system:String>
     <system:String x:Key="btnClose">关闭</system:String>
