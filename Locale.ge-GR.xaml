@@ -321,7 +321,7 @@
     <system:String x:Key="txtDoesNotContain">δεν περιέχει</system:String>
     <system:String x:Key="txtIsNot">δεν είναι</system:String>
     <system:String x:Key="txtMatchCase">Αντιστοιχία περίπτωσης</system:String>
-    <system:String x:Key="txtFileSize"Μεγέθος εγγράφων</system:String>
+    <system:String x:Key="txtFileSize">Μεγέθος εγγράφων</system:String>
     <system:String x:Key="txtLargerThan">είναι μεγαλύτερο από</system:String>
     <system:String x:Key="txtSmallerThan">είναι μικρότερο από</system:String>
     <system:String x:Key="txtExactly">είναι ακριβώς</system:String>
