@@ -5,7 +5,7 @@
    <!-- String resource that can be localized -->
     <system:String x:Key="btiInformationCP">Información</system:String>
     <system:String x:Key="mmSupportCP">Soporte</system:String>
-    <system:String x:Key="btnUpdateCheckCP">Comprobar ahora</system:String>
+    <system:String x:Key="btnUpdateCheckCP">Comprobar actualizaciones ahora</system:String>
     <system:String x:Key="btnUpdateCheckHCP">Comprobar si hay actualizaciones</system:String>
     <system:String x:Key="btnUpdateCheckICP">Comprueba si hay actualizaciones para asegurar que tienes la versión más reciente.</system:String>
     <system:String x:Key="stUpdateAvailableCP">Hay disponible una nueva versión. (VER)</system:String>
