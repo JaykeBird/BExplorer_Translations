@@ -12,7 +12,7 @@
     <system:String x:Key="stUpdateNotAvailableCP">Ο Better Explorer είναι ενημερωμένος.</system:String>
     <system:String x:Key="btnOpenWebsite">Άνοιγμα ιστοσελίδας</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Επίσκεψη της ιστοσελίδας του BetterExplorer</system:String>
-    <system:String x:Key="btnOpenWebsiteICP">Επισκεφθείτε την ιστοσελίδα για να δοκιμάσετε τα νεότερα test builds, να ζητήσετε βοήθεια, να αναφέρετε κάποιο πρόβλημα, και άλλα.</system:String>
+    <system:String x:Key="btnOpenWebsiteICP">Επισκεφθείτε την ιστοσελίδα για να δείτε τα πιο πρόσφατα δοκιμαστικά αρχεία, να ζητήσετε βοήθεια, να αναφέρετε κάποιο πρόβλημα, και άλλα.</system:String>
     <system:String x:Key="lblBetterExText">Better Explorer - Η καλύτερη αντικατάσταση εξερευνητή εγγράφων.</system:String>
     <system:String x:Key="lblBetterExInfo">Το πρόγραμμα αντικαθιστά τον Windows Explorer και προσθέτει διάφορα εύχρηστα χαρακτηριστικά, όπως τη Κορδέλα, καρτέλες, και άλλα πράγματα.</system:String>
     <system:String x:Key="lblAboutBEHeader">Πληροφορίες Better Explorer</system:String>
@@ -51,8 +51,8 @@
     <system:String x:Key="chkEverymonth">Μήνα</system:String>
     <system:String x:Key="txtUpdateChannel"> Μέσο ενημέρωσης</system:String>
     <system:String x:Key="chkReleasesChannel">Μόνο νέες εκδόσεις (προτείνεται)</system:String>
-    <system:String x:Key="chkDevChannel">Νέες εκδόσεις και Test Builds</system:String>
-    <system:String x:Key="txtTestBuildWarning">Προσοχή! Τα test builds μπορεί να είναι χρήσιμα για να δοκιμάζετε νέα χαρακτηριστικά, αλλά μπορούν να είναι και επιβλαβή κάποιες φορές!</system:String>
+    <system:String x:Key="chkDevChannel">Νέες εκδόσεις και δοκιμαστικά αρχεία</system:String>
+    <system:String x:Key="txtTestBuildWarning">Προσοχή! Τα δοκιμαστικά αρχεία μπορεί να είναι χρήσιμα για να δοκιμάζετε νέα χαρακτηριστικά, αλλά μπορούν να είναι και επιβλαβή κάποιες φορές!</system:String>
     <system:String x:Key="txtAdvancedUpdateSettings">Ρυθμίσεις για προχωρημένους</system:String>
     <system:String x:Key="txtUpdateURL">Ενημέρωση διαδικτυακής τοποθεσίας δεδομένων (URL)</system:String>
     <system:String x:Key="txtAvailableUpdates">Διαθέσιμες ενημερώσεις</system:String>
