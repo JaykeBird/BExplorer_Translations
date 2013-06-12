@@ -180,7 +180,7 @@
     <system:String x:Key="chkExtensionsICP">Επιλέξτε αν θα προβάλλονται οι επεκτάσεις στο τέλος των ονομάτων των εγγράφων ή όχι.Οι επεκτάσεις δείχνουν τον τύπο ενός έγγραφου. Για παράδειγμα, ένα έγγραφο με κείμενο έχει επέκταση .txt και μπορούμε να καταλάβουμε πως είναι έγγραφο με κείμενο. Προσοχή στη μετονομασία εγγράφων, επειδή η αλλαγή της επεκτασής του μπορεί να προκαλέσει προβλήματα στο αρχείο ή σε ένα πρόγραμμα.</system:String>
     <system:String x:Key="btnHideSelCP">Απόκρυψη επιλεγμένων στοιχείων</system:String>
     <system:String x:Key="miHideSelCP">Απόκρυψη επιλεγμένων στοιχείων</system:String>
-    <system:String x:Key="miHideItemsCP">Απόκρυψη επιλεγμένων στοιχείων και όλων των children</system:String>
+    <system:String x:Key="miHideItemsCP">Απόκρυψη επιλεγμένων στοιχείων και εγγράφων σε φακέλους</system:String>
     <system:String x:Key="grpWindowsCP">Παράθυρα</system:String>
     <system:String x:Key="btnNewWindowCP">Νέο Παράθυρο</system:String>
     <system:String x:Key="btnRefreshCP">Ανανέωση</system:String>
@@ -284,7 +284,7 @@
     <system:String x:Key="btnExtCP">Επέκταση</system:String>
     <system:String x:Key="btnAuthorCP">Συγγραφέας/Καλλιτέχνης</system:String>
     <system:String x:Key="btnSubjectCP">Θέμα</system:String>
-    <system:String x:Key="btnSearchCP">Αναζήτηση τώραα</system:String>
+    <system:String x:Key="btnSearchCP">Αναζήτηση τώρα</system:String>
     <system:String x:Key="btnSave">Αποθήκευση</system:String>
     <system:String x:Key="btnSaveAs">Αποθήκευση ως</system:String>
     <system:String x:Key="btnAddTab">Προσθήκη καρτέλας</system:String>
