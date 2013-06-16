@@ -347,26 +347,26 @@
     <system:String x:Key="txtLevelUp">Μετάβαση σε έναν φάκελο πιο πάνω</system:String>
     <system:String x:Key="txtSearchLabel">Αναζήτηση σε</system:String>
     <!-- Miscellaneous strings -->
-    <system:String x:Key="txtApply">Apply</system:String>
-    <system:String x:Key="txtLocation">Location</system:String>
-    <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
+    <system:String x:Key="txtApply">Εφαρμογή</system:String></system:String>
+    <system:String x:Key="txtLocation">Τοποθεσία</system:String>
+    <system:String x:Key="txtEmptyRBin">Άδειασμα Κάδου Ανακύκλωσης</system:String>
     <system:String x:Key="txtYes">Ναι</system:String>
     <system:String x:Key="txtNo">Όχι</system:String>
-    <system:String x:Key="txtType">Type</system:String>
+    <system:String x:Key="txtType">Είδος</system:String>
     <!-- (file type) -->
-    <system:String x:Key="txtFile">file</system:String>
-    <system:String x:Key="txtShortcut">shortcut</system:String>
-    <system:String x:Key="txtFolder">folder</system:String>
+    <system:String x:Key="txtFile">έγγραφο</system:String>
+    <system:String x:Key="txtShortcut">συντόμευση</system:String>
+    <system:String x:Key="txtFolder">φάκελος</system:String>
     <!-- (The folder is empty. (subject)) -->
-    <system:String x:Key="txtAccusativeFolder">folder</system:String>
+    <system:String x:Key="txtAccusativeFolder">φάκελος</system:String>
     <!-- (Do you want to delete the folder? (direct object))-->
-    <system:String x:Key="txtRecycleBin">Recycle Bin</system:String>
-    <system:String x:Key="txtSeveralItems">several items</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Are you sure you want to move this {0} to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Are you sure you want to delete this {0} permanently?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Are you sure you want to move these {0} items to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Are you sure you want to delete these {0} items permanently?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Delete items</system:String>
+    <system:String x:Key="txtRecycleBin">Κάδος Ανακύκλωσης</system:String>
+    <system:String x:Key="txtSeveralItems">κάποια αντικείμενα</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">Είστε βέβαιοι πως θέλετε να μετακινήσετε το {0} προς {1};</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">Είστε βέβαιοι πως θέλετε να διαγράψετε το {0} οριστικά;</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">Είστε βέβαιοι πως θέλετε να μετακινήσετε αυτά τα {0} στοιχεία {1};</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">Είστε βέβαιοι πως θέλετε να διαγράψετε αυτά τα {0} στοιχεία οριστικά;</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">Διαγραφή αντικειμένων</system:String>
     <!-- View tab -->
     <system:String x:Key="btnConsoleCP">Console</system:String>
     <!-- File tab -->
