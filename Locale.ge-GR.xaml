@@ -342,16 +342,16 @@
     <system:String x:Key="txtBrowse">Αναζήτηση...</system:String>
     <!-- NEW STRINGS -->
     <!-- Navigation toolbar -->
-    <system:String x:Key="txtBack">Back</system:String>
-    <system:String x:Key="txtForward">Forward</system:String>
-    <system:String x:Key="txtLevelUp">Level Up</system:String>
-    <system:String x:Key="txtSearchLabel">Search:</system:String>
+    <system:String x:Key="txtBack">Πίσω</system:String>
+    <system:String x:Key="txtForward">Μπροστά</system:String>
+    <system:String x:Key="txtLevelUp">Μετάβαση σε έναν φάκελο πιο πάνω</system:String>
+    <system:String x:Key="txtSearchLabel">Αναζήτηση σε</system:String>
     <!-- Miscellaneous strings -->
     <system:String x:Key="txtApply">Apply</system:String>
     <system:String x:Key="txtLocation">Location</system:String>
     <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
-    <system:String x:Key="txtYes">Yes</system:String>
-    <system:String x:Key="txtNo">No</system:String>
+    <system:String x:Key="txtYes">Ναι</system:String>
+    <system:String x:Key="txtNo">Όχι</system:String>
     <system:String x:Key="txtType">Type</system:String>
     <!-- (file type) -->
     <system:String x:Key="txtFile">file</system:String>
