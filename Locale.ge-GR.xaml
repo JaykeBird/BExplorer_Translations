@@ -370,31 +370,31 @@
     <!-- View tab -->
     <system:String x:Key="btnConsoleCP">Console</system:String>
     <!-- File tab -->
-    <system:String x:Key="btnReportBugCP">Report a problem</system:String>
-    <system:String x:Key="btnReportBugHCP">Report a problem, bug, or feature request</system:String>
+    <system:String x:Key="btnReportBugCP">Αναφορά προβλήματος</system:String>
+    <system:String x:Key="btnReportBugHCP">Αναφέρετε ένα πρόβλημα, σφάλμα ή κάντε αίτηση για ένα χαρακτηριστικό.</system:String>
     <!-- File tab - Options -->
     <system:String x:Key="chkUseCustomDialogsCP">Use custom file operation dialogs</system:String>
     <system:String x:Key="chkUseCustomDialogsICP">Use dialogs for operations such as moving, copying, and deleting files that mimic Windows 8's dialogs.</system:String>
-    <system:String x:Key="lblOtherSettingsCP">Other Settings</system:String>
-    <system:String x:Key="lblActionsCP">Actions</system:String>
-    <system:String x:Key="chkLastTabClosesAppCP">Close Better Explorer when you close the last tab</system:String>
-    <system:String x:Key="chkLastTabClosesAppICP">If this is checked, this window will close when you close the last tab open. Otherwise, a new tab will be created.</system:String>
+    <system:String x:Key="lblOtherSettingsCP">Άλλες ρυθμίσεις</system:String>
+    <system:String x:Key="lblActionsCP">Ενέργειες</system:String>
+    <system:String x:Key="chkLastTabClosesAppCP">Κλείσιμο του Better Explorer όταν κλείνετε την τελευταία καρτέλα</system:String>
+    <system:String x:Key="chkLastTabClosesAppICP">Αν το τσεκάρετε, αυτό το παράθυρο θα κλείσει όταν κλείσετε την τελευταία ανοιχτή καρτέλα. Αν δεν το τσεκάρετε, θα δημιουργείται μία  νέα καρτέλα.</system:String>
     <!-- Create Archive Wizard -->
-    <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
-    <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
-    <system:String x:Key="txtChooseSpeed">Select a compression speed to use:</system:String>
-    <system:String x:Key="txtFaster">Faster</system:String>
-    <system:String x:Key="txtNormal">Normal</system:String>
-    <system:String x:Key="txtSlower">Slower</system:String>
-    <system:String x:Key="txtLarger">Larger file size</system:String>
-    <system:String x:Key="txtSmaller">Smaller file size</system:String>
-    <system:String x:Key="txtArchiveName">Name of the archive:</system:String>
+    <system:String x:Key="txtChooseFormat">Επιλογή της μορφής που θα χρησιμοποιηθεί:</system:String>
+    <system:String x:Key="txtFormatExplanation">Κάθε μορφή έχει τα δικά της προτερήματα και ελαττώματα και εξαρτάται από το ποια ίσως χρειάζεστε.</system:String>
+    <system:String x:Key="txtChooseSpeed">Επιλογή ταχύτητας συμπίεσης που θα χρησιμοπιηθεί:</system:String>
+    <system:String x:Key="txtFaster">Πιο γρήγορη</system:String>
+    <system:String x:Key="txtNormal">Κανονική</system:String>
+    <system:String x:Key="txtSlower">Πιο αργή</system:String>
+    <system:String x:Key="txtLarger">Μεγαλύτερα έγγραφα</system:String>
+    <system:String x:Key="txtSmaller">Μικρότερα έγγραφα</system:String>
+    <system:String x:Key="txtArchiveName">Όνομα αρχείου</system:String>
     <!-- Resize Image dialog -->
     <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
-    <system:String x:Key="txtMoreCommands">More Commands</system:String>
+    <system:String x:Key="txtMoreCommands">Περισσότερες εντολές</system:String>
     <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:String>
+    <system:String x:Key="txtRemove">Remove</system:Str
     <system:String x:Key="txtMoveUp">Move Up</system:String>
     <system:String x:Key="txtMoveDown">Move Down</system:String>
     <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
