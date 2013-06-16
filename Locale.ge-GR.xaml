@@ -393,14 +393,14 @@
     <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
     <system:String x:Key="txtMoreCommands">Περισσότερες εντολές</system:String>
-    <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:Str
-    <system:String x:Key="txtMoveUp">Move Up</system:String>
-    <system:String x:Key="txtMoveDown">Move Down</system:String>
-    <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
-    <system:String x:Key="txtCustomizeRibbon">Customize Ribbon</system:String>
-    <system:String x:Key="txtQATCDesc">Add or remove commands from the Quick Access Toolbar:</system:String>
-    <system:String x:Key="txtRibbonGCDesc">Show or hide groups on the Ribbon:</system:String>
-    <system:String x:Key="txtRibbonBCDesc">Show or hide commands on the Ribbon:</system:String>
+    <system:String x:Key="txtAdd">Προσθήκη</system:String>
+    <system:String x:Key="txtRemove">Μετακίνηση</system:Str
+    <system:String x:Key="txtMoveUp">Μετακίνηση επάνω</system:String>
+    <system:String x:Key="txtMoveDown">Μετακίνηση κάτω</system:String>
+    <system:String x:Key="txtCustomizeQAT">Προσαρμογή Γραμμής Γρήγορης Πρόσβασης</system:String>
+    <system:String x:Key="txtCustomizeRibbon">Προσαρμογή Κορδέλας</system:String>
+    <system:String x:Key="txtQATCDesc">Προσθήκη ή μετακίνηση εντολών από τη Γραμμή Γρήγορης Πρόσβασης:</system:String>
+    <system:String x:Key="txtRibbonGCDesc">Απόκρυψη ή εμφάνιση ομάδων στην Κορδέλα:</system:String>
+    <system:String x:Key="txtRibbonBCDesc">Απόκρυψη ή εμφάνιση εντολών στην Κορδέλα:</system:String>
     <system:String x:Key="txtExperimental">Experimental feature</system:String>
 </ResourceDictionary>
