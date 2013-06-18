@@ -395,7 +395,7 @@
     <system:String x:Key="txtMoreCommands">Autres commandes</system:String>
     <system:String x:Key="txtAdd">Ajouter</system:String>
     <system:String x:Key="txtRemove">Enlever</system:String>
-    <system:String x:Key="txtMoveUp">Remonter</system:String>
+    <system:String x:Key="txtMoveUp">Monter</system:String>
     <system:String x:Key="txtMoveDown">Descendre</system:String>
     <system:String x:Key="txtCustomizeQAT">Customiser la barre d'accès rapide</system:String>
     <system:String x:Key="txtCustomizeRibbon">Customiser le ruban</system:String>
