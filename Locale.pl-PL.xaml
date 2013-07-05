@@ -50,7 +50,7 @@
     <system:String x:Key="chkEveryweek">Co tydzień</system:String>
     <system:String x:Key="chkEverymonth">Co miesiąc</system:String>
     <system:String x:Key="txtUpdateChannel">Kanał aktualizacji</system:String>
-    <system:String x:Key="chkReleasesChannel">Tylko wersje finalne (recommended)</system:String>
+    <system:String x:Key="chkReleasesChannel">Tylko wersje finalne (zalecane)</system:String>
     <system:String x:Key="chkDevChannel">Wersje finalne i testowe</system:String>
     <system:String x:Key="txtTestBuildWarning">Uwaga! Wersje testowe mogą być przydatne pod kątem sprawdzania nowych funkcji, ale czasem mogą zawierać niebezbieczne błędy!</system:String>
     <system:String x:Key="txtAdvancedUpdateSettings">Ustawienia zaawansowane</system:String>
@@ -80,7 +80,7 @@
     <system:String x:Key="chkTreeExpandCP">Rozwiń panel nawigacji do obecnego folderu *</system:String>
     <system:String x:Key="chkTreeExpandTCP">Rozwiń panel nawigacji do obecnego folderu</system:String>
     <system:String x:Key="sepOptionalCP">Wyświetlanie dodatkowych elementów</system:String>
-    <system:String x:Key="chkShowCheckBoxesCP">Pokaż Checkboxy</system:String>
+    <system:String x:Key="chkShowCheckBoxesCP">Pokaż pola wyboru</system:String>
     <system:String x:Key="tbHomeCP">Narzędzia główne</system:String>
     <system:String x:Key="tgClipboardCP">Schowek</system:String>
     <system:String x:Key="btnCopyCP">Kopiuj</system:String>
@@ -130,7 +130,7 @@
     <system:String x:Key="btnCloneTabTTX">Otwórz nową kartę w tej samej lokalizacji, co obecnie przeglądana</system:String>
     <system:String x:Key="btnUndoCloseCP">Przywróć ostatnio zamkniętą kartę</system:String>
     <system:String x:Key="btnUndoCloseHCP">Ponownie otwiera niedawno zamkniętą kartę.</system:String>
-    <system:String x:Key="miClearList">Clear List</system:String>
+    <system:String x:Key="miClearList">Wyczyść listę</system:String>
     <system:String x:Key="btnSavedTabsCP">Zapisane karty</system:String>
     <system:String x:Key="btnSavedTabsHCP">Zachowaj kolekcję swoich ulubionych kart lub otwórz poprzednio zachowaną kolekcję.</system:String>
     <system:String x:Key="miSaveTabs">Zapisz otwarte karty</system:String>
@@ -168,8 +168,8 @@
     <system:String x:Key="tgCurrentViewCP">Obecny widok</system:String>
     <system:String x:Key="btnSortByCP">Sortuj</system:String>
     <system:String x:Key="btnSortICP">Zmień, w jaki sposób zawartości folderów są sortowane</system:String>
-    <system:String x:Key="miDescending">Descending</system:String>
-    <system:String x:Key="miAscending">Ascending</system:String>
+    <system:String x:Key="miDescending">Malejąco</system:String>
+    <system:String x:Key="miAscending">Rosnąco</system:String>
     <system:String x:Key="btnGroupByCP">Grupuj</system:String>
     <system:String x:Key="btnAutoSizeColCP">Wyrównaj kolumny</system:String>
     <system:String x:Key="btnAutoSizeColICP">Zmień szerokość kolumn, by pasowały do swojej zawartości</system:String>
@@ -312,7 +312,7 @@
     <system:String x:Key="chkProtectArchive">Chroń archiwum hasłem:</system:String>
     <system:String x:Key="txtPassword">Hasło:</system:String>
     <system:String x:Key="txtConditionalSelect">Zaznacz pliki przy pomocy kryteriów</system:String>
-    <system:String x:Key="txtSelectFiles">Select files in this folder that meet these conditions:</system:String>
+    <system:String x:Key="txtSelectFiles">Wybierz pliki w tym folderze spełniające podane kryteria:</system:String>
     <system:String x:Key="txtFilename">Nazwa pliku</system:String>
     <system:String x:Key="txtContains">zawiera</system:String>
     <system:String x:Key="txtStartsWith">zaczyna się</system:String>
