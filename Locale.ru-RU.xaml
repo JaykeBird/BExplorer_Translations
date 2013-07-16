@@ -342,21 +342,21 @@
     <system:String x:Key="txtBrowse">Обзор...</system:String>
     <!-- NEW STRINGS -->
     <!-- Navigation toolbar -->
-    <system:String x:Key="txtBack">Back</system:String>
-    <system:String x:Key="txtForward">Forward</system:String>
-    <system:String x:Key="txtLevelUp">Level Up</system:String>
-    <system:String x:Key="txtSearchLabel">Search:</system:String>
+    <system:String x:Key="txtBack">Назад</system:String>
+    <system:String x:Key="txtForward">Вперед</system:String>
+    <system:String x:Key="txtLevelUp">На уровень выше</system:String>
+    <system:String x:Key="txtSearchLabel">Искать:</system:String>
     <!-- Miscellaneous strings -->
-    <system:String x:Key="txtApply">Apply</system:String>
-    <system:String x:Key="txtLocation">Location</system:String>
-    <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
-    <system:String x:Key="txtYes">Yes</system:String>
-    <system:String x:Key="txtNo">No</system:String>
-    <system:String x:Key="txtType">Type</system:String>
+    <system:String x:Key="txtApply">Согласен</system:String>
+    <system:String x:Key="txtLocation">Расположение</system:String>
+    <system:String x:Key="txtEmptyRBin">Очистить корзину</system:String>
+    <system:String x:Key="txtYes">Да</system:String>
+    <system:String x:Key="txtNo">Нет</system:String>
+    <system:String x:Key="txtType">Тип</system:String>
     <!-- (file type) -->
-    <system:String x:Key="txtFile">file</system:String>
-    <system:String x:Key="txtShortcut">shortcut</system:String>
-    <system:String x:Key="txtFolder">folder</system:String>
+    <system:String x:Key="txtFile">файл</system:String>
+    <system:String x:Key="txtShortcut">ярлык</system:String>
+    <system:String x:Key="txtFolder">папка</system:String>
     <!-- (The folder is empty. (subject)) -->
     <system:String x:Key="txtAccusativeFolder">folder</system:String>
     <!-- (Do you want to delete the folder? (direct object))-->
