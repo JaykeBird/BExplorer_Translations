@@ -293,7 +293,7 @@
     <system:String x:Key="btnOpenFolder">Открыть папку</system:String>
     <system:String x:Key="txtName">Имя</system:String>
     <system:String x:Key="txtPath">Путь</system:String>
-    <system:String x:Key="txtChooseName">Выберать имя для этой коллекции вкладок </system:String>
+    <system:String x:Key="txtChooseName">Выбирать имя для этой коллекции вкладок </system:String>
     <system:String x:Key="txtOverwriteSavedTabs">Если это имя уже существует, старые коллекции будут заменены.</system:String>
     <system:String x:Key="txtIllegalCharacters">Недопустимые символы: \ / : * ? &lt; &gt; |</system:String>
     <system:String x:Key="txtConfirmDelete">Вы уверены, что хотите удалить эту коллекцию вкладок?</system:String>
@@ -344,7 +344,7 @@
     <!-- Navigation toolbar -->
     <system:String x:Key="txtBack">Назад</system:String>
     <system:String x:Key="txtForward">Вперед</system:String>
-    <system:String x:Key="txtLevelUp">На уровень выше</system:String>
+    <system:String x:Key="txtLevelUp">Переход на один уровень вверх</system:String>
     <system:String x:Key="txtSearchLabel">Искать:</system:String>
     <!-- Miscellaneous strings -->
     <system:String x:Key="txtApply">Согласен</system:String>
@@ -358,17 +358,17 @@
     <system:String x:Key="txtShortcut">ярлык</system:String>
     <system:String x:Key="txtFolder">папка</system:String>
     <!-- (The folder is empty. (subject)) -->
-    <system:String x:Key="txtAccusativeFolder">folder</system:String>
-    <!-- (Do you want to delete the folder? (direct object))-->
-    <system:String x:Key="txtRecycleBin">Recycle Bin</system:String>
-    <system:String x:Key="txtSeveralItems">several items</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Are you sure you want to move this {0} to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Are you sure you want to delete this {0} permanently?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Are you sure you want to move these {0} items to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Are you sure you want to delete these {0} items permanently?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Delete items</system:String>
+    <system:String x:Key="txtAccusativeFolder">папка</system:String>
+    <!-- (Вы хотите удалить папку? (direct object))-->
+    <system:String x:Key="txtRecycleBin">Корзина</system:String>
+    <system:String x:Key="txtSeveralItems">несколько пунктов</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">Вы уверены, что хотите переместить эти {0} в {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">Вы уверены, что хотите удалить эти {0} навсегда?</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">Вы уверены, что хотите переместить эти {0} пункты в {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">Вы уверены, что хотите удалить  эти {0} пункты навсегда?</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">Удалить пункты</system:String>
     <!-- View tab -->
-    <system:String x:Key="btnConsoleCP">Console</system:String>
+    <system:String x:Key="btnConsoleCP">Консоль</system:String>
     <!-- File tab -->
     <system:String x:Key="btnReportBugCP">Report a problem</system:String>
     <system:String x:Key="btnReportBugHCP">Report a problem, bug, or feature request</system:String>
