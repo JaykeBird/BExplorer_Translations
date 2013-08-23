@@ -380,27 +380,27 @@
     <system:String x:Key="chkLastTabClosesAppCP">Cerrar Better Explorer al cerrar la última pestaña</system:String>
     <system:String x:Key="chkLastTabClosesAppICP">Si esto está marcado, esta ventana se cerrará al cerrar la última pestaña abierta. De lo contrario, se creará una nueva pestaña.</system:String>
     <!-- Create Archive Wizard -->
-    <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
-    <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
-    <system:String x:Key="txtChooseSpeed">Select a compression speed to use:</system:String>
-    <system:String x:Key="txtFaster">Faster</system:String>
+    <system:String x:Key="txtChooseFormat">Selecciona un formato:</system:String>
+    <system:String x:Key="txtFormatExplanation">Cada formato tiene sus propias ventajas y desventajas, dependiendo de lo que necesites.</system:String>
+    <system:String x:Key="txtChooseSpeed">Selecciona una velocidad de compresión:</system:String>
+    <system:String x:Key="txtFaster">Rápida</system:String>
     <system:String x:Key="txtNormal">Normal</system:String>
-    <system:String x:Key="txtSlower">Slower</system:String>
-    <system:String x:Key="txtLarger">Larger file size</system:String>
-    <system:String x:Key="txtSmaller">Smaller file size</system:String>
-    <system:String x:Key="txtArchiveName">Name of the archive:</system:String>
+    <system:String x:Key="txtSlower">Lento</system:String>
+    <system:String x:Key="txtLarger">Mayor tamaño de archivo</system:String>
+    <system:String x:Key="txtSmaller">Menor tamaño de archivo</system:String>
+    <system:String x:Key="txtArchiveName">Nombre del archivo:</system:String>
     <!-- Resize Image dialog -->
-    <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
+    <system:String x:Key="txtAspectRatio">Mantener relación de aspecto</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
-    <system:String x:Key="txtMoreCommands">More Commands</system:String>
-    <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:String>
-    <system:String x:Key="txtMoveUp">Move Up</system:String>
-    <system:String x:Key="txtMoveDown">Move Down</system:String>
-    <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
-    <system:String x:Key="txtCustomizeRibbon">Customize Ribbon</system:String>
-    <system:String x:Key="txtQATCDesc">Add or remove commands from the Quick Access Toolbar:</system:String>
-    <system:String x:Key="txtRibbonGCDesc">Show or hide groups on the Ribbon:</system:String>
-    <system:String x:Key="txtRibbonBCDesc">Show or hide commands on the Ribbon:</system:String>
-    <system:String x:Key="txtExperimental">Experimental feature</system:String>
+    <system:String x:Key="txtMoreCommands">Más comandos</system:String>
+    <system:String x:Key="txtAdd">Agregar</system:String>
+    <system:String x:Key="txtRemove">Quitar</system:String>
+    <system:String x:Key="txtMoveUp">Subir</system:String>
+    <system:String x:Key="txtMoveDown">Bajar</system:String>
+    <system:String x:Key="txtCustomizeQAT">Personalizar la barra de herramientas de acceso rápido</system:String>
+    <system:String x:Key="txtCustomizeRibbon">Personalizar cinta de opciones</system:String>
+    <system:String x:Key="txtQATCDesc">Agregar o quitar comandos de la barra de herramientas de acceso rápido:</system:String>
+    <system:String x:Key="txtRibbonGCDesc">Mostrar u ocultar grupos en la cinta de opciones:</system:String>
+    <system:String x:Key="txtRibbonBCDesc">Mostrar u ocultar comandos en la cinta de opciones:</system:String>
+    <system:String x:Key="txtExperimental">Función experimental</system:String>
 </ResourceDictionary>
