@@ -342,43 +342,43 @@
     <system:String x:Key="txtBrowse">Buscar...</system:String>
     <!-- NEW STRINGS -->
     <!-- Navigation toolbar -->
-    <system:String x:Key="txtBack">Back</system:String>
-    <system:String x:Key="txtForward">Forward</system:String>
-    <system:String x:Key="txtLevelUp">Level Up</system:String>
-    <system:String x:Key="txtSearchLabel">Search:</system:String>
+    <system:String x:Key="txtBack">Atrás</system:String>
+    <system:String x:Key="txtForward">Adelante</system:String>
+    <system:String x:Key="txtLevelUp">Subir un nivel</system:String>
+    <system:String x:Key="txtSearchLabel">Buscar:</system:String>
     <!-- Miscellaneous strings -->
-    <system:String x:Key="txtApply">Apply</system:String>
-    <system:String x:Key="txtLocation">Location</system:String>
-    <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
-    <system:String x:Key="txtYes">Yes</system:String>
+    <system:String x:Key="txtApply">Aplicar</system:String>
+    <system:String x:Key="txtLocation"Ubicación</system:String>
+    <system:String x:Key="txtEmptyRBin">Vaciar Papelera de reciclaje</system:String>
+    <system:String x:Key="txtYes">Sí</system:String>
     <system:String x:Key="txtNo">No</system:String>
-    <system:String x:Key="txtType">Type</system:String>
+    <system:String x:Key="txtType">Tipo</system:String>
     <!-- (file type) -->
-    <system:String x:Key="txtFile">file</system:String>
-    <system:String x:Key="txtShortcut">shortcut</system:String>
-    <system:String x:Key="txtFolder">folder</system:String>
+    <system:String x:Key="txtFile">archivo</system:String>
+    <system:String x:Key="txtShortcut">acceso directo</system:String>
+    <system:String x:Key="txtFolder">carpeta</system:String>
     <!-- (The folder is empty. (subject)) -->
-    <system:String x:Key="txtAccusativeFolder">folder</system:String>
+    <system:String x:Key="txtAccusativeFolder">carpeta</system:String>
     <!-- (Do you want to delete the folder? (direct object))-->
-    <system:String x:Key="txtRecycleBin">Recycle Bin</system:String>
-    <system:String x:Key="txtSeveralItems">several items</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Are you sure you want to move this {0} to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Are you sure you want to delete this {0} permanently?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Are you sure you want to move these {0} items to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Are you sure you want to delete these {0} items permanently?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Delete items</system:String>
+    <system:String x:Key="txtRecycleBin">Papelera de reciclaje</system:String>
+    <system:String x:Key="txtSeveralItems">varios elementos</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">¿Seguro que quieres mover esto {0} a {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">¿Seguro que quiere borrar esto {0} de forma permanente?</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">¿Seguro que quieres mover estos {0} elementos a {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">¿Seguro que quieres borrar estos {0} elementos de forma permanente?</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">Borrar elementos</system:String>
     <!-- View tab -->
-    <system:String x:Key="btnConsoleCP">Console</system:String>
+    <system:String x:Key="btnConsoleCP">Símbolo del sistema</system:String>
     <!-- File tab -->
-    <system:String x:Key="btnReportBugCP">Report a problem</system:String>
-    <system:String x:Key="btnReportBugHCP">Report a problem, bug, or feature request</system:String>
+    <system:String x:Key="btnReportBugCP">Informar de un problema</system:String>
+    <system:String x:Key="btnReportBugHCP">Informar de un problema, fallo o solicitud de funcionalidad</system:String>
     <!-- File tab - Options -->
-    <system:String x:Key="chkUseCustomDialogsCP">Use custom file operation dialogs</system:String>
-    <system:String x:Key="chkUseCustomDialogsICP">Use dialogs for operations such as moving, copying, and deleting files that mimic Windows 8's dialogs.</system:String>
-    <system:String x:Key="lblOtherSettingsCP">Other Settings</system:String>
-    <system:String x:Key="lblActionsCP">Actions</system:String>
-    <system:String x:Key="chkLastTabClosesAppCP">Close Better Explorer when you close the last tab</system:String>
-    <system:String x:Key="chkLastTabClosesAppICP">If this is checked, this window will close when you close the last tab open. Otherwise, a new tab will be created.</system:String>
+    <system:String x:Key="chkUseCustomDialogsCP">Usar diálogos personalizados de operación con archivos</system:String>
+    <system:String x:Key="chkUseCustomDialogsICP">Usar diálogos como los de Windows 8 para operaciones como mover, copiar y borrar archivos.</system:String>
+    <system:String x:Key="lblOtherSettingsCP">Otros Ajustes</system:String>
+    <system:String x:Key="lblActionsCP">Acciones</system:String>
+    <system:String x:Key="chkLastTabClosesAppCP">Cerrar Better Explorer al cerrar la última pestaña</system:String>
+    <system:String x:Key="chkLastTabClosesAppICP">Si esto está marcado, esta ventana se cerrará al cerrar la última pestaña abierta. De lo contrario, se creará una nueva pestaña.</system:String>
     <!-- Create Archive Wizard -->
     <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
     <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
