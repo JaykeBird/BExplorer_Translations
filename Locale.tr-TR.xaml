@@ -394,13 +394,13 @@
     <!-- Customize Quick Access Toolbar dialog -->
     <system:String x:Key="txtMoreCommands">Daha Fazla Komut</system:String>
     <system:String x:Key="txtAdd">Ekle</system:String>
-    <system:String x:Key="txtRemove">Çıkar</system:String>
+    <system:String x:Key="txtRemove">Çıkart</system:String>
     <system:String x:Key="txtMoveUp">Yukarı Taşı</system:String>
     <system:String x:Key="txtMoveDown">Aşağı Taşı</system:String>
     <system:String x:Key="txtCustomizeQAT">Hızlı Erişim Çubuğunu Özelleştir</system:String>
     <system:String x:Key="txtCustomizeRibbon">Şeridi Özelleştir</system:String>
     <system:String x:Key="txtQATCDesc">Hızlı Erişim Çubuğuna komut ekle veya komut çıkart:</system:String>
-    <system:String x:Key="txtRibbonGCDesc">Şeritteki gurupları gözter veya gizle:</system:String>
-    <system:String x:Key="txtRibbonBCDesc">Şeritteki komutları gözter veya gizle:</system:String>
+    <system:String x:Key="txtRibbonGCDesc">Şeritteki gurupları göster veya gizle:</system:String>
+    <system:String x:Key="txtRibbonBCDesc">Şeritteki komutları göster veya gizle:</system:String>
     <system:String x:Key="txtExperimental">Deneysel özellik</system:String>
 </ResourceDictionary>
