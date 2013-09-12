@@ -348,7 +348,7 @@
     <system:String x:Key="txtSearchLabel">Buscar:</system:String>
     <!-- Miscellaneous strings -->
     <system:String x:Key="txtApply">Aplicar</system:String>
-    <system:String x:Key="txtLocation"Ubicación</system:String>
+    <system:String x:Key="txtLocation">Ubicación</system:String>
     <system:String x:Key="txtEmptyRBin">Vaciar Papelera de reciclaje</system:String>
     <system:String x:Key="txtYes">Sí</system:String>
     <system:String x:Key="txtNo">No</system:String>
