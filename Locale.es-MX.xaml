@@ -174,9 +174,9 @@
 	<system:String x:Key="btnAutoSizeColCP">Ajuste automático de ancho de columnas</system:String>
 	<system:String x:Key="btnAutoSizeColICP">Cambia el ancho de las columnas para ajustarse a su contenido</system:String>
 	<system:String x:Key="btnMoreColCP">Más columnas</system:String>
-	<system:String x:Key="chkImagefilenameCP">Image Filenames</system:String>
-	<system:String x:Key="chkHiddenItemsCP">Hidden items</system:String>
-	<system:String x:Key="chkExtensionsCP">Filename extensions</system:String>
+	<system:String x:Key="chkImagefilenameCP">Archivos de imagen</system:String>
+	<system:String x:Key="chkHiddenItemsCP">Elementos ocultos</system:String>
+	<system:String x:Key="chkExtensionsCP">Extensiones de archivo</system:String>
 	<system:String x:Key="chkExtensionsICP">Choose whether to show the extensions on the end of files or not. The extensions identify what type a file is. For example, a text document has a .txt extension, identifying it as a text document. Be careful when renaming files, because changing its extension can cause issues with the file or a program.</system:String>
 	<system:String x:Key="btnHideSelCP">Hide Selected Items</system:String>
 	<system:String x:Key="miHideSelCP">Hide selected items</system:String>
