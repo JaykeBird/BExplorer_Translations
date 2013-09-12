@@ -54,7 +54,7 @@
 	<system:String x:Key="chkDevChannel">Versiones finales y de prueba</system:String>
 	<system:String x:Key="txtTestBuildWarning">¡Advertencia! ¡Las versiones de prueba pueden ser muy útiles para probar nuevas caraterísticas, sin embargo a veces pueden resultar peligrosas!</system:String>
 	<system:String x:Key="txtAdvancedUpdateSettings">Ajustes avanzados</system:String>
-	<system:String x:Key="txtUpdateURL">Actualizar ubicación de datos en línea (URL) / Actualizar datos de ubicación en línea (URL) **REVISAR**</system:String>
+	<system:String x:Key="txtUpdateURL">Ubicación de datos de actualización en línea (URL)</system:String>
 	<system:String x:Key="txtAvailableUpdates">Actualizaciones disponibles</system:String>
 	<system:String x:Key="txtDownloading">Descargando actualización</system:String>
 	<system:String x:Key="txtReadyToInstall">Listo para instalar</system:String>
