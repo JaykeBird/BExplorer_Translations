@@ -14,7 +14,7 @@
     <system:String x:Key="btnOpenWebsiteHCP">访问BetterExplorer的官网</system:String>
     <system:String x:Key="btnOpenWebsiteICP">访问网站以尝试最新版，寻求求助，报告问题等。</system:String>
     <system:String x:Key="lblBetterExText">Better Explorer - 资源管理器的更好选择！</system:String>
-    <system:String x:Key="lblBetterExInfo">这是一个提供一系列便捷功能，如Ribbon工具栏，多标签和其他新特性，以取代Windows资源管理器的软件。</system:String>
+    <system:String x:Key="lblBetterExInfo">这是一个提供一系列便捷功能，如功能区工具栏，多标签和其他新特性，以取代Windows资源管理器的软件。</system:String>
     <system:String x:Key="lblAboutBEHeader">关于Better Explorer</system:String>
     <system:String x:Key="lblDevelopersHeader">主要开发者：</system:String>
     <system:String x:Key="lblDevTeamCP">开发团队</system:String>
@@ -59,8 +59,8 @@
     <system:String x:Key="txtDownloading">正在下载更新</system:String>
     <system:String x:Key="txtReadyToInstall">准备安装</system:String>
     <system:String x:Key="sepAppearanceCP">外观</system:String>
-    <system:String x:Key="tabRibbonCP">Ribbon</system:String>
-    <system:String x:Key="sepRibbonColorCP">Ribbon颜色</system:String>
+    <system:String x:Key="tabRibbonCP">功能区</system:String>
+    <system:String x:Key="sepRibbonColorCP">功能区颜色</system:String>
     <system:String x:Key="btnSilverCP">银色</system:String>
     <system:String x:Key="btnBlueCP">蓝色</system:String>
     <system:String x:Key="btnBlackCP">黑色</system:String>
@@ -342,65 +342,65 @@
     <system:String x:Key="txtBrowse">浏览...</system:String>
     <!-- NEW STRINGS -->
     <!-- Navigation toolbar -->
-    <system:String x:Key="txtBack">Back</system:String>
-    <system:String x:Key="txtForward">Forward</system:String>
-    <system:String x:Key="txtLevelUp">Level Up</system:String>
-    <system:String x:Key="txtSearchLabel">Search:</system:String>
+    <system:String x:Key="txtBack">后退</system:String>
+    <system:String x:Key="txtForward">前进</system:String>
+    <system:String x:Key="txtLevelUp">向上</system:String>
+    <system:String x:Key="txtSearchLabel">搜索：</system:String>
     <!-- Miscellaneous strings -->
-    <system:String x:Key="txtApply">Apply</system:String>
-    <system:String x:Key="txtLocation">Location</system:String>
-    <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
-    <system:String x:Key="txtYes">Yes</system:String>
-    <system:String x:Key="txtNo">No</system:String>
-    <system:String x:Key="txtType">Type</system:String>
+    <system:String x:Key="txtApply">应用</system:String>
+    <system:String x:Key="txtLocation">位置</system:String>
+    <system:String x:Key="txtEmptyRBin">清空回收站</system:String>
+    <system:String x:Key="txtYes">是</system:String>
+    <system:String x:Key="txtNo">否</system:String>
+    <system:String x:Key="txtType">类型</system:String>
     <!-- (file type) -->
-    <system:String x:Key="txtFile">file</system:String>
-    <system:String x:Key="txtShortcut">shortcut</system:String>
-    <system:String x:Key="txtFolder">folder</system:String>
+    <system:String x:Key="txtFile">文件</system:String>
+    <system:String x:Key="txtShortcut">快捷方式</system:String>
+    <system:String x:Key="txtFolder">文件夹</system:String>
     <!-- (The folder is empty. (subject)) -->
-    <system:String x:Key="txtAccusativeFolder">folder</system:String>
+    <system:String x:Key="txtAccusativeFolder">文件夹</system:String>
     <!-- (Do you want to delete the folder? (direct object))-->
-    <system:String x:Key="txtRecycleBin">Recycle Bin</system:String>
-    <system:String x:Key="txtSeveralItems">several items</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Are you sure you want to move this {0} to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Are you sure you want to delete this {0} permanently?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Are you sure you want to move these {0} items to {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Are you sure you want to delete these {0} items permanently?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Delete items</system:String>
+    <system:String x:Key="txtRecycleBin">回收站</system:String>
+    <system:String x:Key="txtSeveralItems">一些项目</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">您确定要将{0}移动到{1}吗？</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">您确定要永久删除{0}吗？</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">您确定要移动这些项目{0}到{1}吗？</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">您确定要永久删除这些项目{0}吗？</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">删除项目</system:String>
     <!-- View tab -->
-    <system:String x:Key="btnConsoleCP">Console</system:String>
+    <system:String x:Key="btnConsoleCP">控制台</system:String>
     <!-- File tab -->
-    <system:String x:Key="btnReportBugCP">Report a problem</system:String>
-    <system:String x:Key="btnReportBugHCP">Report a problem, bug, or feature request</system:String>
+    <system:String x:Key="btnReportBugCP">报告问题</system:String>
+    <system:String x:Key="btnReportBugHCP">报告问题、错误或者未来的建议</system:String>
     <!-- File tab - Options -->
-    <system:String x:Key="chkUseCustomDialogsCP">Use custom file operation dialogs</system:String>
-    <system:String x:Key="chkUseCustomDialogsICP">Use dialogs for operations such as moving, copying, and deleting files that mimic Windows 8's dialogs.</system:String>
-    <system:String x:Key="lblOtherSettingsCP">Other Settings</system:String>
-    <system:String x:Key="lblActionsCP">Actions</system:String>
-    <system:String x:Key="chkLastTabClosesAppCP">Close Better Explorer when you close the last tab</system:String>
-    <system:String x:Key="chkLastTabClosesAppICP">If this is checked, this window will close when you close the last tab open. Otherwise, a new tab will be created.</system:String>
+    <system:String x:Key="chkUseCustomDialogsCP">使用自定义的文件操作对话框</system:String>
+    <system:String x:Key="chkUseCustomDialogsICP">让移动、复制和删除文件的操作的对话框模仿Windows 8的对话框。</system:String>
+    <system:String x:Key="lblOtherSettingsCP">其他设置</system:String>
+    <system:String x:Key="lblActionsCP">行为</system:String>
+    <system:String x:Key="chkLastTabClosesAppCP">当关闭最后一个标签时退出应用</system:String>
+    <system:String x:Key="chkLastTabClosesAppICP">当该选项被选中时，窗口将会在最后一个标签关闭时关闭，否则将会打开一个新标签。</system:String>
     <!-- Create Archive Wizard -->
-    <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
-    <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
-    <system:String x:Key="txtChooseSpeed">Select a compression speed to use:</system:String>
-    <system:String x:Key="txtFaster">Faster</system:String>
-    <system:String x:Key="txtNormal">Normal</system:String>
-    <system:String x:Key="txtSlower">Slower</system:String>
-    <system:String x:Key="txtLarger">Larger file size</system:String>
-    <system:String x:Key="txtSmaller">Smaller file size</system:String>
-    <system:String x:Key="txtArchiveName">Name of the archive:</system:String>
+    <system:String x:Key="txtChooseFormat">选择使用何种格式：</system:String>
+    <system:String x:Key="txtFormatExplanation">每种格式都有自己的优点和缺点，这取决于您的需要。</system:String>
+    <system:String x:Key="txtChooseSpeed">选择使用压缩速度：</system:String>
+    <system:String x:Key="txtFaster">更快</system:String>
+    <system:String x:Key="txtNormal">正常</system:String>
+    <system:String x:Key="txtSlower">更慢</system:String>
+    <system:String x:Key="txtLarger">更大的文件尺寸</system:String>
+    <system:String x:Key="txtSmaller">更小的文件尺寸</system:String>
+    <system:String x:Key="txtArchiveName">存档的名字：</system:String>
     <!-- Resize Image dialog -->
-    <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
+    <system:String x:Key="txtAspectRatio">保持横纵比</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
-    <system:String x:Key="txtMoreCommands">More Commands</system:String>
-    <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:String>
-    <system:String x:Key="txtMoveUp">Move Up</system:String>
-    <system:String x:Key="txtMoveDown">Move Down</system:String>
-    <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
-    <system:String x:Key="txtCustomizeRibbon">Customize Ribbon</system:String>
-    <system:String x:Key="txtQATCDesc">Add or remove commands from the Quick Access Toolbar:</system:String>
-    <system:String x:Key="txtRibbonGCDesc">Show or hide groups on the Ribbon:</system:String>
-    <system:String x:Key="txtRibbonBCDesc">Show or hide commands on the Ribbon:</system:String>
-    <system:String x:Key="txtExperimental">Experimental feature</system:String>
+    <system:String x:Key="txtMoreCommands">更多命令</system:String>
+    <system:String x:Key="txtAdd">添加</system:String>
+    <system:String x:Key="txtRemove">移除</system:String>
+    <system:String x:Key="txtMoveUp">上移</system:String>
+    <system:String x:Key="txtMoveDown">下移</system:String>
+    <system:String x:Key="txtCustomizeQAT">自定义快速访问工具栏</system:String>
+    <system:String x:Key="txtCustomizeRibbon">自定义功能区</system:String>
+    <system:String x:Key="txtQATCDesc">从快速访问工具栏栏上的添加或移除命令：</system:String>
+    <system:String x:Key="txtRibbonGCDesc">在功能区上显示或者隐藏分组：</system:String>
+    <system:String x:Key="txtRibbonBCDesc">在功能区上显示或者隐藏命令：</system:String>
+    <system:String x:Key="txtExperimental">实验性功能</system:String>
 </ResourceDictionary>
