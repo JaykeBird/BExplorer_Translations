@@ -8,7 +8,7 @@
     <system:String x:Key="btnUpdateCheckCP">Procurar Agora</system:String>
     <system:String x:Key="btnUpdateCheckHCP">Procurar por Atualizações</system:String>
     <system:String x:Key="btnUpdateCheckICP">Procurar por novas atualizações para garantir que você tem a ultima versão.</system:String>
-    <system:String x:Key="stUpdateAvailableCP">Há uma nova versão disponível. (VER)</system:String>
+    <system:String x:Key="stUpdateAvailableCP">Há uma nova versão disponível. (Verificar)</system:String>
     <system:String x:Key="stUpdateNotAvailableCP">O BetterExplorer está atualizado.</system:String>
     <system:String x:Key="btnOpenWebsite">Abrir o Website</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Visitar o Website do BetterExplorer</system:String>
@@ -22,11 +22,11 @@
     <system:String x:Key="chkTreeExpandTTX">Quando navegar para um novo local, expandir o painel de navegação para mostrar a pasta atual aberta. (necessário reiniciar.)</system:String>
     <system:String x:Key="sepGeneral">Geral</system:String>
     <system:String x:Key="tabShell">Aparência</system:String>
-    <system:String x:Key="sepStartup">Mudar Local da Incialização</system:String>
+    <system:String x:Key="sepStartup">Mudar Local da Inicialização</system:String>
     <system:String x:Key="btnSetCurrentasStartupHCP">Mudar Local da Incialização</system:String>
     <system:String x:Key="btnSetCurrentasStartupICP">Definir o local atual como localização padrão. BetterExplorer abre o local padrão quando o programa é iniciado ou uma nova aba é aberta.</system:String>
-    <system:String x:Key="btnSetCurrentasStartupDesc">Clique para mudar o local padrão de inicialização pelo local atualmente sendo visto.</system:String>
-    <system:String x:Key="chkIsDefault">Fazer do BetterExplorer o explorador de arquivos padrão</system:String>
+    <system:String x:Key="btnSetCurrentasStartupDesc">Clique para mudar o local padrão de inicialização pelo local atualmente aberto.</system:String>
+    <system:String x:Key="chkIsDefault">Fazer do BetterExplorer o navegador de arquivos padrão</system:String>
     <system:String x:Key="chkIsDefaultICP">Fazer do BetterExplorer o explorador de arquivos padrão. Note que isso não é uma integração completa (funciona apenas quando se clica no ícone do Windows Explorer e quando se usa o atalho Windows + E)</system:String>
     <system:String x:Key="chkIsTerraCopyEnabled">Permitir substituições de arquivos por terceiros. *</system:String>
     <system:String x:Key="chkIsTerraCopyEnabledICP">Permitir aplicações de terceiros (tal como o Teracopy) substituir algumas operações de arquivos como copiar, mover ou deletar arquivos. (necessário reinciar a aplicação)</system:String>
@@ -35,7 +35,7 @@
     <system:String x:Key="txtImageEditing">Edição de Imagem</system:String>
     <system:String x:Key="chkEditOverwrite">Substituir imagem original quando editar</system:String>
     <system:String x:Key="chkLogHistoryCP">Manter log das suas ações</system:String>
-    <system:String x:Key="chkLogHistoryHCP">Quando habilitado, o BetterExplorer irá escrever um log cada vez que voce fizer uma ação tal como mover, renomear ou deletar arquivos. Isso é bom para ter referencias futuras e por propositos de segurança. Há um arquivo de log separado para cada janela.</system:String>
+    <system:String x:Key="chkLogHistoryHCP">Quando habilitado, o BetterExplorer irá escrever um log cada vez que você fizer uma ação tal como mover, renomear ou deletar arquivos. Isso é bom para ter referencias futuras e por propósitos de segurança. Há um arquivo de log separado para cada janela.</system:String>
     <system:String x:Key="tabLanguageCP">Idioma</system:String>
     <system:String x:Key="sepLanguageCP">Mudar Idioma</system:String>
     <system:String x:Key="lblLanguageCP">Escolher o idioma para usar no BetterExplorer (necessário reiniciar)</system:String>
@@ -45,12 +45,12 @@
     <system:String x:Key="tabUpdateCP">Atualizações</system:String>
     <system:String x:Key="txtAutoUpdate">Atualizar Automaticamente</system:String>
     <system:String x:Key="chkAutoCheck">Checar por atualizações automaticamente</system:String>
-    <system:String x:Key="txtCheckHowOften">Verificar Atualização com que Frequencia:</system:String>
+    <system:String x:Key="txtCheckHowOften">Verificar Atualização com que Frequência:</system:String>
     <system:String x:Key="chkEveryday">Todos os dias</system:String>
     <system:String x:Key="chkEveryweek">Toda semana</system:String>
     <system:String x:Key="chkEverymonth">Todo mês</system:String>
     <system:String x:Key="txtUpdateChannel">Canal de atualização</system:String>
-    <system:String x:Key="chkReleasesChannel">Apenas Versão Final(recomendado)</system:String>
+    <system:String x:Key="chkReleasesChannel">Apenas Versão Final (recomendado)</system:String>
     <system:String x:Key="chkDevChannel">Versão de teste e final</system:String>
     <system:String x:Key="txtTestBuildWarning">Aviso! As versões de teste podem ser uteis para testar novos recursos, mas também podem ser perigosas as vezes!</system:String>
     <system:String x:Key="txtAdvancedUpdateSettings">Configurações Avançadas</system:String>
@@ -77,12 +77,11 @@
     <system:String x:Key="lblDefSavedTabsLocCP">Local padrão para guias salvas:</system:String>
     <system:String x:Key="lblSavedTabsWarningCP">Aviso: Mudar o local padrão resultará na perda de suas guias salvas.</system:String>
     <system:String x:Key="tabPanesItemsCP">Painéis/Itens</system:String>
-    <system:String x:Key="chkTreeExpandCP">Expandir o painel de navegação para a pasta atual *</system:String>
-    <system:String x:Key="chkTreeExpandTCP">Expand navigation pane to current folder</system:String>
+    <system:String x:Key="chkTreeExpandTCP">Expandir o painel de navegação para a pasta atual *</system:String>
     <system:String x:Key="sepOptionalCP">Exibir Recursos Opcionais</system:String>
     <system:String x:Key="chkShowCheckBoxesCP">Mostrar caixas de seleção</system:String>
     <system:String x:Key="tbHomeCP">Inicio</system:String>
-    <system:String x:Key="tgClipboardCP">Area de tranferencia</system:String>
+    <system:String x:Key="tgClipboardCP">Área de tranferencia</system:String>
     <system:String x:Key="btnCopyCP">Copiar</system:String>
     <system:String x:Key="btnCopyTCP">Copiar (CTRL + C)</system:String>
     <system:String x:Key="btnCopyTTX">Copiar os itens selecionados para o Clipboard.</system:String>
@@ -111,7 +110,7 @@
     <system:String x:Key="btnPropertiesCP">Propriedades</system:String>
     <system:String x:Key="btnOpenCP">Abrir</system:String>
     <system:String x:Key="btnEditCP">Editar</system:String>
-    <system:String x:Key="btnHistoryCP">Historico</system:String>
+    <system:String x:Key="btnHistoryCP">Histórico</system:String>
     <system:String x:Key="btnFavoritesCP">Favoritos</system:String>
     <system:String x:Key="tgSelectCP">Selecionar</system:String>
     <system:String x:Key="btnSelectAllCP">Selecionar Tudo</system:String>
@@ -143,7 +142,7 @@
     <system:String x:Key="btnMapDriveCP">Mapear Drive de Rede</system:String>
     <system:String x:Key="btnDiscDriveCP">Desconectar Drive de Rede</system:String>
     <system:String x:Key="btnAdvSecurityCP">Segurança Avançada</system:String>
-    <system:String x:Key="btnAdvSecurityTTX">Abre as configurações de segurança, permite voce selecionar quem pode acessar ou editar esta pasta.</system:String>
+    <system:String x:Key="btnAdvSecurityTTX">Abre as configurações de segurança, permite você selecionar quem pode acessar ou editar esta pasta.</system:String>
     <system:String x:Key="tbViewCP">Exibição</system:String>
     <system:String x:Key="tgShowHideCP">Mostrar/Ocultar</system:String>
     <system:String x:Key="tbPanesCP">Painéis</system:String>
@@ -155,11 +154,11 @@
     <system:String x:Key="btnInfoTTX">Mostra ou oculta os detalhes do painel que exibe mais informação sobre o item selecionado.</system:String>
     <system:String x:Key="btnPreviewCP">Painel de visualização</system:String>
     <system:String x:Key="btnPreviewTCP">Painel de visualização</system:String>
-    <system:String x:Key="btnPreviewTTX">Mostra ou esconde o painel de visualização no lado esquerdo da janela que permite voce ver o conteúdo de um arquivo sem abrir o arquivo, se o computador tiver gerenciador de visualização para esse arquivo.</system:String>
-    <system:String x:Key="btnExtraLargeICP">Icones Extra Largos</system:String>
-    <system:String x:Key="btnLargeICP">Icones Largos</system:String>
-    <system:String x:Key="btnMediumICP">Icones médio</system:String>
-    <system:String x:Key="btnSmallICP">Icones pequenos</system:String>
+    <system:String x:Key="btnPreviewTTX">Mostra ou esconde o painel de visualização no lado esquerdo da janela que permite você ver o conteúdo de um arquivo sem abrir o arquivo, se o computador tiver gerenciador de visualização para esse arquivo.</system:String>
+    <system:String x:Key="btnExtraLargeICP">Ícones Extra Largos</system:String>
+    <system:String x:Key="btnLargeICP">Ícones Largos</system:String>
+    <system:String x:Key="btnMediumICP">Ícones médio</system:String>
+    <system:String x:Key="btnSmallICP">Ícones pequenos</system:String>
     <system:String x:Key="btnListICP">Lista</system:String>
     <system:String x:Key="btnDetailsICP">Detalhes</system:String>
     <system:String x:Key="btnTilesICP">Lado a Lado</system:String>
@@ -167,7 +166,7 @@
     <system:String x:Key="tgLayoutCP">Exibição</system:String>
     <system:String x:Key="tgCurrentViewCP">Visualização Atual</system:String>
     <system:String x:Key="btnSortByCP">Classificar por</system:String>
-    <system:String x:Key="btnSortICP">Mudar como os conteudos das pasta são classificados e por qual categorias eles estão classificados</system:String>
+    <system:String x:Key="btnSortICP">Mudar como os conteúdos das pasta são classificados e por qual categorias eles estão classificados</system:String>
     <system:String x:Key="miDescending">Decrescente</system:String>
     <system:String x:Key="miAscending">Crescente</system:String>
     <system:String x:Key="btnGroupByCP">Agrupar por</system:String>
@@ -204,8 +203,8 @@
     <system:String x:Key="tgFolderIconCP">Ícone</system:String>
     <system:String x:Key="btnChangeFIconCP">Mudar o Ícone da Pasta</system:String>
     <system:String x:Key="btnClearFIconCP">Remover o Ícone da Pasta</system:String>
-    <system:String x:Key="btnFSizeChartCP">Folder Size Chart</system:String>
-    <system:String x:Key="ctbDriveToolsCP">Ferramentas de Disco</system:String>
+    <system:String x:Key="btnFSizeChartCP">Tamanho do gráfico da pasta </system:String>
+	<system:String x:Key="ctbDriveToolsCP">Ferramentas de Disco</system:String>
     <system:String x:Key="tabDriveCP">Disco</system:String>
     <system:String x:Key="btnFormatDriveCP">Formatar Disco</system:String>
     <system:String x:Key="btnCleanDriveCP">Limpeza de Disco</system:String>
@@ -245,7 +244,7 @@
     <system:String x:Key="tgExtractCP">Extraír</system:String>
     <system:String x:Key="btnExtractHereCP">Extrair Aqui</system:String>
     <system:String x:Key="btnExtractHereHCP">Extrair Aqui</system:String>
-    <system:String x:Key="btnExtractHereICP">Colocar o conteudo desse arquivo aqui emu ma nova pasta.</system:String>
+    <system:String x:Key="btnExtractHereICP">Colocar o conteúdo desse arquivo aqui emu ma nova pasta.</system:String>
     <system:String x:Key="lblExtractCP">Extraír:</system:String>
     <system:String x:Key="btnChooseLocationCP">Mudar pasta para onde extrair</system:String>
     <system:String x:Key="btnExtractNowCP">Extrair Arquivo</system:String>
@@ -262,7 +261,7 @@
     <system:String x:Key="btnKindDocsCP">Documentos</system:String>
     <system:String x:Key="btnKindPicsCP">Imagens</system:String>
     <system:String x:Key="btnKindMusicCP">Música</system:String>
-    <system:String x:Key="btnKindVideosCP">Videos</system:String>
+    <system:String x:Key="btnKindVideosCP">Vídeos</system:String>
     <system:String x:Key="btnKindFoldersCP">Pastas</system:String>
     <system:String x:Key="btnKindProgramsCP">Programas</system:String>
     <system:String x:Key="tsgOtherCP">Outras Condições</system:String>
@@ -296,7 +295,7 @@
     <system:String x:Key="txtChooseName">Escolha um nome para esta coleção de abas</system:String>
     <system:String x:Key="txtOverwriteSavedTabs">Se o nome já existir a antiga coleção será substituída</system:String>
     <system:String x:Key="txtIllegalCharacters">Os seguinte caracteres não podem ser usados: \ / : * ? &lt; &gt; |</system:String>
-    <system:String x:Key="txtConfirmDelete">Voce tem certeza que quer deletar essa coleção de abas</system:String>
+    <system:String x:Key="txtConfirmDelete">Você tem certeza que quer deletar essa coleção de abas</system:String>
     <system:String x:Key="txtSizeChart">Gráfico de tamanho de Pasta/Disco</system:String>
     <system:String x:Key="txtLoadingSizeChart">Obtendo o tamanho das subpastas...</system:String>
     <system:String x:Key="txtResizeImage">Redimensionar Imagem</system:String>
@@ -308,7 +307,7 @@
     <system:String x:Key="txtRemoveFiles">Remover Arquivos</system:String>
     <system:String x:Key="txtArchiveFormat">Formato do Arquivo Compactado</system:String>
     <system:String x:Key="txtArchiveSpeed">Velocidade de Compressão</system:String>
-    <system:String x:Key="txtNamePassword">Nome do Arquivo Compactad / Senha </system:String>
+    <system:String x:Key="txtNamePassword">Nome do Arquivo Compactado / Senha </system:String>
     <system:String x:Key="chkProtectArchive">Proteger com senha esse arquivo compactado:</system:String>
     <system:String x:Key="txtPassword">Senha:</system:String>
     <system:String x:Key="txtConditionalSelect">Selecionar Arquivos Condicionalmente </system:String>
@@ -362,10 +361,10 @@
     <!-- (Do you want to delete the folder? (direct object))-->
     <system:String x:Key="txtRecycleBin">Lixeira</system:String>
     <system:String x:Key="txtSeveralItems">vários itens</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Voce tem certeza que quer mover este arquivo {0} para {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Voce tem certeza que quer deletar este arquivo {0} permanentemente?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Voce tem certeza que quer mover estes {0} itens para {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Voce tem certeza que quer deletar estes {0} itens permanentemente?</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">Você tem certeza que quer mover este arquivo {0} para {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">Você tem certeza que quer deletar este arquivo {0} permanentemente?</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">Você tem certeza que quer mover estes {0} itens para {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">Você tem certeza que quer deletar estes {0} itens permanentemente?</system:String>
     <system:String x:Key="txtDeleteSeveralItems">Deletar itens</system:String>
     <!-- View tab -->
     <system:String x:Key="btnConsoleCP">Console</system:String>
@@ -377,11 +376,11 @@
     <system:String x:Key="chkUseCustomDialogsICP">Usar janelas para operações tais como mover, copiar e deletar arquivos parecidas com as do Windows 8.</system:String>
     <system:String x:Key="lblOtherSettingsCP">Outras Configurações</system:String>
     <system:String x:Key="lblActionsCP">Ações</system:String>
-    <system:String x:Key="chkLastTabClosesAppCP">Encerrar o Better Explorer quando a ultima aba for fechada.</system:String>
+    <system:String x:Key="chkLastTabClosesAppCP">Encerrar o BetterExplorer quando a última aba for fechada.</system:String>
     <system:String x:Key="chkLastTabClosesAppICP">Se isso estiver marcado, esta janela fechará quando a ultima aba for fechada. Caso contrario, um nova aba será criada.</system:String>
     <!-- Create Archive Wizard -->
     <system:String x:Key="txtChooseFormat">Selecione qual formato usar:</system:String>
-    <system:String x:Key="txtFormatExplanation">Cada formato tem suas vantagens e desvantagens dependendo do que voce possa precisar.</system:String>
+    <system:String x:Key="txtFormatExplanation">Cada formato tem suas vantagens e desvantagens dependendo do que você possa precisar.</system:String>
     <system:String x:Key="txtChooseSpeed">Selecione uma velocidade de compressão para usar:</system:String>
     <system:String x:Key="txtFaster">Rápido</system:String>
     <system:String x:Key="txtNormal">Normal</system:String>
