@@ -117,7 +117,7 @@
     <system:String x:Key="btnSelectAllCP">Seleziona tutto</system:String>
     <system:String x:Key="btnSelectNoneCP">Deseleziona</system:String>
     <system:String x:Key="btnInvertSelectionCP">Inverti selezione</system:String>
-    <system:String x:Key="btnConditionalSelectCP">Conditional Select</system:String>
+    <system:String x:Key="btnConditionalSelectCP">Seleziona con filtro</system:String>
     <system:String x:Key="miSelAllByTypeCP">Seleziona quelli dello stesso tipo</system:String>
     <system:String x:Key="miSelAllByDateCP">Seleziona quelli creati lo stesso giorno</system:String>
     <system:String x:Key="miCondSelectCP">Seleziona secondo altre condizioni...</system:String>
