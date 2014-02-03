@@ -381,7 +381,7 @@
     <system:String x:Key="chkLastTabClosesAppICP">この設定が無効の場合は最後のタブを閉じようとすると新規タブが開きます。</system:String>
     <!-- Create Archive Wizard -->
     <system:String x:Key="txtChooseFormat">使用する形式を選択:</system:String>
-    <system:String x:Key="txtFormatExplanation">それぞれの形式には<長所と短所があり、/目的に応じて選択する必要があります。system:String>
+    <system:String x:Key="txtFormatExplanation">それぞれの形式には長所と短所があり、目的に応じて選択する必要があります。system:String>
     <system:String x:Key="txtChooseSpeed">圧縮レベル/速度を選択:</system:String>
     <system:String x:Key="txtFaster">高速</system:String>
     <system:String x:Key="txtNormal">標準</system:String>
