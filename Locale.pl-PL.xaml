@@ -9,7 +9,7 @@
     <system:String x:Key="btnUpdateCheckHCP">Sprawdź aktualizacje</system:String>
     <system:String x:Key="btnUpdateCheckICP">Sprawdź aktualizacje, aby upewnić się, że posiadasz najnowszą wersję.</system:String>
     <system:String x:Key="stUpdateAvailableCP">Nowa wersja programu jest dostępna. (VER)</system:String>
-    <system:String x:Key="stUpdateNotAvailableCP">Wersja programu BetterExplorer jest najświeższa.</system:String>
+    <system:String x:Key="stUpdateNotAvailableCP">Wersja programu BetterExplorer jest aktualna.</system:String>
     <system:String x:Key="btnOpenWebsite">Strona domowa</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Odwiedź stronę domową programu BetterExplorer</system:String>
     <system:String x:Key="btnOpenWebsiteICP">Odwiedź tę stronę domową, by wypróbować najnowsze wersje, zapytać o pomoc lub zgłosić problem.</system:String>
