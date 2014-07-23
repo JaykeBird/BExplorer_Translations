@@ -174,8 +174,8 @@
     <system:String x:Key="btnAutoSizeColCP">Ajuster la taille des colonnes</system:String>
     <system:String x:Key="btnAutoSizeColICP">Ajuste la largeur des colonnes à leur contenu</system:String>
     <system:String x:Key="btnMoreColCP">Ajouter des colonnes</system:String>
-    <system:String x:Key="chkImagefilenameCP">Noms de fichier Image</system:String>
-    <system:String x:Key="chkHiddenItemsCP">Eléments masqués</system:String>
+    <system:String x:Key="chkImagefilenameCP">Noms des fichiers Image</system:String>
+    <system:String x:Key="chkHiddenItemsCP">Éléments masqués</system:String>
     <system:String x:Key="chkExtensionsCP">Extensions</system:String>
     <system:String x:Key="chkExtensionsICP">Affiche ou non les extensions de fichiers (les 3 ou 4 lettres après le point, à la fin des noms de fichiers).</system:String>
     <system:String x:Key="btnHideSelCP">Masquer les éléments sélectionnés</system:String>
@@ -198,7 +198,7 @@
     <system:String x:Key="btnChangeLibIconCP">Changer l’icône</system:String>
     <system:String x:Key="chkPinNavCP">Afficher dans le volet de navigation</system:String>
     <system:String x:Key="chkPinNavHCP">Afficher la bibliothèque dans le volet de navigation</system:String>
-    <system:String x:Key="chkPinNavICP">Choisit s’il convient d’afficher ou non ce volet à gauche de la fenêtre. Vous pouvez accède à cette bibliothèque à partir du dossier de Bibliothèques s’il n’est pas dans le volet de navigation.</system:String>
+    <system:String x:Key="chkPinNavICP">Choisis s’il convient d’afficher ou non ce volet à gauche de la fenêtre. Vous pouvez accéder à cette bibliothèque à partir du dossier « Bibliothèques » s’il n’est pas dans le volet de navigation.</system:String>
     <system:String x:Key="btnResetCP">Restaurer les paramètres</system:String>
     <system:String x:Key="ctgFolderToolsCP">Outils de dossiers</system:String>
     <system:String x:Key="tgFolderIconCP">Icône</system:String>
@@ -214,11 +214,11 @@
     <system:String x:Key="ctbApplicationsCP">Outils d’application</system:String>
     <system:String x:Key="tabApplicationCP">Application</system:String>
     <system:String x:Key="tgRunCP">Exécuter</system:String>
-    <system:String x:Key="btnPinCP">Epingler à la barre des tâches</system:String>
+    <system:String x:Key="btnPinCP">Épingler à la barre des tâches</system:String>
     <system:String x:Key="btnRunAsAdminCP">Exécuter comme administrateur</system:String>
     <system:String x:Key="ctbImageToolsCP">Outils d’image</system:String>
-    <system:String x:Key="tgImgEditCP">Editer</system:String>
-    <system:String x:Key="btnRotateLeftCP">Faire pvoter à gauche</system:String>
+    <system:String x:Key="tgImgEditCP">Éditer</system:String>
+    <system:String x:Key="btnRotateLeftCP">Faire pivoter à gauche</system:String>
     <system:String x:Key="btnRotateRightCP">Faire pivoter à droite</system:String>
     <system:String x:Key="btnFlipXCP">Inverser horizontalement</system:String>
     <system:String x:Key="btnFlipYCP">Inverser verticalement</system:String>
@@ -238,7 +238,7 @@
     <system:String x:Key="btnWallpaperCP">Choisir comme arrière-plan du Bureau</system:String>
     <system:String x:Key="miWallFillCP">Remplissage</system:String>
     <system:String x:Key="miWallFitCP">Ajuster</system:String>
-    <system:String x:Key="miWallStretchCP">Etirer</system:String>
+    <system:String x:Key="miWallStretchCP">Étirer</system:String>
     <system:String x:Key="miWallTileCP">Mosaïque</system:String>
     <system:String x:Key="miWallCenterCP">Centrer</system:String>
     <system:String x:Key="ctbArchiveToolsCP">Outils d'archive</system:String>
@@ -296,7 +296,7 @@
     <system:String x:Key="txtChooseName">Choisissez un nom pour ce groupe d'onglets</system:String>
     <system:String x:Key="txtOverwriteSavedTabs">Si ce nom existe déjà, l'ancien groupe sera remplacé</system:String>
     <system:String x:Key="txtIllegalCharacters">Ne peut contenir les caractères suivants : \ / : * ? &lt; &gt; |</system:String>
-    <system:String x:Key="txtConfirmDelete">Etês-vous sûr de vouloir supprimer ce groupe d'onglets ?</system:String>
+    <system:String x:Key="txtConfirmDelete">Êtes-vous sûr de vouloir supprimer ce groupe d'onglets ?</system:String>
     <system:String x:Key="txtSizeChart">Représentation graphique du dossier/disque</system:String>
     <system:String x:Key="txtLoadingSizeChart">Récupération de la taille des sous-dossiers...</system:String>
     <system:String x:Key="txtResizeImage">Redimensionner l'image</system:String>
@@ -332,7 +332,7 @@
     <system:String x:Key="txtIsBefore">est avant</system:String>
     <system:String x:Key="txtIsAfter">est après</system:String>
     <system:String x:Key="txtDateIs">est identique à</system:String>
-    <system:String x:Key="txtRemoveFilter">Pour enlever le filtre, laisser les valeurs vides</system:String>
+    <system:String x:Key="txtRemoveFilter">Pour enlever le filtre, laissez les valeurs vides</system:String>
     <system:String x:Key="txtSetFilter">Indiquez quel/quelle (VAL) chercher :</system:String>
     <system:String x:Key="txtCurrentValue">Valeur actuelle :</system:String>
     <system:String x:Key="txtSelect">Sélectionner</system:String>
@@ -362,10 +362,10 @@
     <!-- (Do you want to delete the folder? (direct object))-->
     <system:String x:Key="txtRecycleBin">Corbeille</system:String>
     <system:String x:Key="txtSeveralItems">plusieurs éléments</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Etes-vous sûr de vouloir déplacer ce {0} vers {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Etes-vous sûr de vouloir supprimer ce {0} définitivement ?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Etes-vous sûr de vouloir déplacer ces {0} éléments vers {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Etes-vous sûr de vouloir supprimer ces {0} éléments définitivement ?</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">Êtes-vous sûr de vouloir déplacer ce {0} vers {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">Êtes-vous sûr de vouloir supprimer ce {0} définitivement ?</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">Êtes-vous sûr de vouloir déplacer ces {0} éléments vers {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">Êtes-vous sûr de vouloir supprimer ces {0} éléments définitivement ?</system:String>
     <system:String x:Key="txtDeleteSeveralItems">Supprimer les éléments</system:String>
     <!-- View tab -->
     <system:String x:Key="btnConsoleCP">Console</system:String>
@@ -380,7 +380,7 @@
     <system:String x:Key="chkLastTabClosesAppCP">Quitter BetterExplorer quand le dernier onglet est fermé</system:String>
     <system:String x:Key="chkLastTabClosesAppICP">Si cette option est cochée, la fenêtre de BetterExplorer sera fermée quand vous fermerez le dernier onglet. Sinon, un nouvel onglet sera créé.</system:String>
     <!-- Create Archive Wizard -->
-    <system:String x:Key="txtChooseFormat">Sélecttionner le format à utiliser :</system:String>
+    <system:String x:Key="txtChooseFormat">Sélectionner le format à utiliser :</system:String>
     <system:String x:Key="txtFormatExplanation">Chaque format possède ses propres avantages et inconvénients, selon ce dont vous avez besoin.</system:String>
     <system:String x:Key="txtChooseSpeed">Sélectionnez une vitesse de compression à utiliser :</system:String>
     <system:String x:Key="txtFaster">Plus rapide</system:String>
@@ -397,8 +397,8 @@
     <system:String x:Key="txtRemove">Enlever</system:String>
     <system:String x:Key="txtMoveUp">Monter</system:String>
     <system:String x:Key="txtMoveDown">Descendre</system:String>
-    <system:String x:Key="txtCustomizeQAT">Customiser la barre d'accès rapide</system:String>
-    <system:String x:Key="txtCustomizeRibbon">Customiser le ruban</system:String>
+    <system:String x:Key="txtCustomizeQAT">Personnaliser la barre d'accès rapide</system:String>
+    <system:String x:Key="txtCustomizeRibbon">Personnaliser le ruban</system:String>
     <system:String x:Key="txtQATCDesc">Ajouter ou supprimer des commandes dans la barre d'accès rapide :</system:String>
     <system:String x:Key="txtRibbonGCDesc">Afficher ou cacher les groupes sur le ruban :</system:String>
     <system:String x:Key="txtRibbonBCDesc">Afficher ou cacher les commandes sur le ruban :</system:String>
