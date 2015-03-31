@@ -77,8 +77,8 @@
     <system:String x:Key="lblDefSavedTabsLocCP">タブの保存場所:</system:String>
     <system:String x:Key="lblSavedTabsWarningCP">警告：保存場所を変更するとそれまでのデータが失われます。</system:String>
     <system:String x:Key="tabPanesItemsCP">ペイン/アイテム</system:String>
-    <system:String x:Key="chkTreeExpandCP">ナビゲージョンペインの自動展開 *</system:String>
-    <system:String x:Key="chkTreeExpandTCP">ナビーゲジョンペインの自動展開</system:String>
+    <system:String x:Key="chkTreeExpandCP">ナビゲーションペインの自動展開 *</system:String>
+    <system:String x:Key="chkTreeExpandTCP">ナビゲーションペインの自動展開</system:String>
     <system:String x:Key="sepOptionalCP">表示の追加機能</system:String>
     <system:String x:Key="chkShowCheckBoxesCP">チェックボックスを表示</system:String>
     <system:String x:Key="tbHomeCP">ホーム</system:String>
@@ -147,9 +147,9 @@
     <system:String x:Key="tbViewCP">表示</system:String>
     <system:String x:Key="tgShowHideCP">表示/非表示</system:String>
     <system:String x:Key="tbPanesCP">ペイン</system:String>
-    <system:String x:Key="btnNavigationCP">ナビゲージョンペイン</system:String>
-    <system:String x:Key="btnNavigationTCP">ナビゲージョンペイン</system:String>
-    <system:String x:Key="btnNavigationTTX">ナビゲージョンペインの表示/非表示を切り替えます。</system:String>
+    <system:String x:Key="btnNavigationCP">ナビゲーションペイン</system:String>
+    <system:String x:Key="btnNavigationTCP">ナビゲーションペイン</system:String>
+    <system:String x:Key="btnNavigationTTX">ナビゲーションペインの表示/非表示を切り替えます。</system:String>
     <system:String x:Key="btnInfoCP">詳細ペイン</system:String>
     <system:String x:Key="btnInfoTCP">詳細ペイン</system:String>
     <system:String x:Key="btnInfoTTX">詳細ペインの表示/非表示を切り替えます。</system:String>
@@ -311,6 +311,7 @@
     <system:String x:Key="txtNamePassword">ファイル名とパスワード</system:String>
     <system:String x:Key="chkProtectArchive">アーカイブをパスワードで保護:</system:String>
     <system:String x:Key="txtPassword">パスワード:</system:String>
+    <system:String x:Key="txtCompress">圧縮</system:String>
     <system:String x:Key="txtConditionalSelect">条件で選択</system:String>
     <system:String x:Key="txtSelectFiles">条件に合致するファイルとフォルダを選択:</system:String>
     <system:String x:Key="txtFilename">ファイル名</system:String>
