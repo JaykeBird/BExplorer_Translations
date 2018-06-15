@@ -10,22 +10,22 @@
     <system:String x:Key="btnUpdateCheckICP">Sprawdź aktualizacje, aby upewnić się, że posiadasz najnowszą wersję.</system:String>
     <system:String x:Key="stUpdateAvailableCP">Nowa wersja programu jest dostępna. (VER)</system:String>
     <system:String x:Key="stUpdateNotAvailableCP">Wersja programu BetterExplorer jest aktualna.</system:String>
-    <system:String x:Key="btnOpenWebsite">Strona domowa</system:String>
+    <system:String x:Key="btnOpenWebsite">Strona główna</system:String>
     <system:String x:Key="btnOpenWebsiteHCP">Odwiedź stronę domową programu BetterExplorer</system:String>
     <system:String x:Key="btnOpenWebsiteICP">Odwiedź tę stronę domową, by wypróbować najnowsze wersje, zapytać o pomoc lub zgłosić problem.</system:String>
     <system:String x:Key="lblBetterExText">BetterExplorer - lepsza alternatywa.</system:String>
     <system:String x:Key="lblBetterExInfo">Jest to zamiennik Eksploratora Windows, który dodaje kilka przydatnych nowości, takich jak interfejs wstążki, karty i inne.</system:String>
     <system:String x:Key="lblAboutBEHeader">O programie Better Explorer</system:String>
-    <system:String x:Key="lblDevelopersHeader">Główni Twórcy:</system:String>
-    <system:String x:Key="lblDevTeamCP">Zespół Programistów</system:String>
+    <system:String x:Key="lblDevelopersHeader">Główni twórcy:</system:String>
+    <system:String x:Key="lblDevTeamCP">Zespół programistów</system:String>
     <system:String x:Key="btiOptionsCP">Opcje</system:String>
     <system:String x:Key="chkTreeExpandTTX">Gdy przenosisz się do nowej lokalizacji, panel nawigacji zostanie rozszerzony, by pokazać aktualnie otwarty folder. (wymaga ponownego uruchomienia systemu)</system:String>
     <system:String x:Key="sepGeneral">Główne</system:String>
     <system:String x:Key="tabShell">Powłoka</system:String>
-    <system:String x:Key="sepStartup">Lokalizacja startowa</system:String>
-    <system:String x:Key="btnSetCurrentasStartupHCP">Ustaw jako domyślną lokalizację</system:String>
-    <system:String x:Key="btnSetCurrentasStartupICP">Ustaw obecnie otworzoną lokalizację jako domyślną. BetterExplorer otworzy tę lokalizację podczas uruchamiania programu lub otwierania nowej karty.</system:String>
-    <system:String x:Key="btnSetCurrentasStartupDesc">Kliknij by zmienić lokalizację domyślną/startową na obecnie wyświetlaną lokalizację</system:String>
+    <system:String x:Key="sepStartup">Położenie początkowe</system:String>
+    <system:String x:Key="btnSetCurrentasStartupHCP">Ustal jako domyślne położenie</system:String>
+    <system:String x:Key="btnSetCurrentasStartupICP">Ustala obecnie otwarte położenie jako domyślne. BetterExplorer otworzy to położenie podczas uruchamiania programu lub otwierania nowej karty.</system:String>
+    <system:String x:Key="btnSetCurrentasStartupDesc">Proszę kliknąć, aby zmienić położenie domyślne/początkowe na aktualnie wyświetlane</system:String>
     <system:String x:Key="chkIsDefault">Ustaw BetterExplorer jako domyślną przeglądarkę</system:String>
     <system:String x:Key="chkIsDefaultICP">Ustaw BetterExplorer jako domyślną przeglądarkę. Uwaga, nie zapewni to pełnej integracji z systemem (działa tylko, gdy klikniesz na ikonę Eksploratora lub, gdy użyjesz kombinacji klawiszy Win + E)</system:String>
     <system:String x:Key="chkIsTerraCopyEnabled">Pozwalaj na zastąpienie operacji plikowych przez inne programy *</system:String>
@@ -33,7 +33,7 @@
     <system:String x:Key="cbIsResttoreCP">Przywracaj ostatnio otwarte karty przy uruchamianiu</system:String>
     <system:String x:Key="cbIsResttoreTTX">Gdy zostanie uruchomiony BetterExplorer, karty, które były przeglądane przed ostatnim zamknięciem programu zostaną ponownie otwarte.</system:String>
     <system:String x:Key="txtImageEditing">Edytowanie obrazu</system:String>
-    <system:String x:Key="chkEditOverwrite">Nadpisuj oryginalny obraz podczas edytowania</system:String>
+    <system:String x:Key="chkEditOverwrite">Zastępowanie pierwotnego obrazu podczas edytowania</system:String>
     <system:String x:Key="chkLogHistoryCP">Zachowuj zapis (log) twoich działań.</system:String>
     <system:String x:Key="chkLogHistoryHCP">Gdy włączone, BetterExplorer będzie dodawał zapis w logu za każdym razem, gdy podejmiesz się jakiejś akcji takiej jak przeniesienie, zmiana nazwy, czy usuwanie plików. Opcja ta jest przydatna ze względu na bezpieczeństwo oraz do wglądu na przyszłość. Każdemu oknu odpowiada oddzielny plik logu.</system:String>
     <system:String x:Key="tabLanguageCP">Język</system:String>
@@ -60,7 +60,7 @@
     <system:String x:Key="txtReadyToInstall">Aktualizacja gotowa do zainstalowania</system:String>
     <system:String x:Key="sepAppearanceCP">Wygląd</system:String>
     <system:String x:Key="tabRibbonCP">Wstążka</system:String>
-    <system:String x:Key="sepRibbonColorCP">Kolor Wstążki</system:String>
+    <system:String x:Key="sepRibbonColorCP">Kolor wstążki</system:String>
     <system:String x:Key="btnSilverCP">Srebrny</system:String>
     <system:String x:Key="btnBlueCP">Niebieski</system:String>
     <system:String x:Key="btnBlackCP">Czarny</system:String>
@@ -75,12 +75,12 @@
     <system:String x:Key="sepSavedTabsCP">Uporządkowanie zapisanych kart</system:String>
     <system:String x:Key="btnShowTabManagerCP">Pokaż menadżer kart</system:String>
     <system:String x:Key="lblDefSavedTabsLocCP">Domyślna lokalizacja zapisanych kart:</system:String>
-    <system:String x:Key="lblSavedTabsWarningCP">Uwaga: Zmiana domyślnej lokalizacji spowoduje utratę obecnie zapisanych kart.</system:String>
+    <system:String x:Key="lblSavedTabsWarningCP">Uwaga: zmiana domyślnej lokalizacji spowoduje utratę obecnie zapisanych kart.</system:String>
     <system:String x:Key="tabPanesItemsCP">Panele</system:String>
     <system:String x:Key="chkTreeExpandCP">Rozwiń panel nawigacji do obecnego folderu *</system:String>
     <system:String x:Key="chkTreeExpandTCP">Rozwiń panel nawigacji do obecnego folderu</system:String>
     <system:String x:Key="sepOptionalCP">Wyświetlanie dodatkowych elementów</system:String>
-    <system:String x:Key="chkShowCheckBoxesCP">Pokaż pola wyboru</system:String>
+    <system:String x:Key="chkShowCheckBoxesCP">Pola wyboru</system:String>
     <system:String x:Key="tbHomeCP">Narzędzia główne</system:String>
     <system:String x:Key="tgClipboardCP">Schowek</system:String>
     <system:String x:Key="btnCopyCP">Kopiuj</system:String>
@@ -88,10 +88,10 @@
     <system:String x:Key="btnCopyTTX">Skopiuj wybrane elementy do Schowka</system:String>
     <system:String x:Key="btnPasteCP">Wklej</system:String>
     <system:String x:Key="btnPasteTCP">Wklej element (CTRL + V)</system:String>
-    <system:String x:Key="btnPasteTTX">Wklej elementy ze Schowka do folderu</system:String>
+    <system:String x:Key="btnPasteTTX">Wkleja elementy ze schowka do folderu</system:String>
     <system:String x:Key="btnCutCP">Wytnij</system:String>
     <system:String x:Key="btnCopyPathCP">Kopiuj ścieżkę</system:String>
-    <system:String x:Key="btnCopyPTTX">Kopiuje ścieżkę zaznaczonych elementów lub obecnie otwartego folderu, jeśli żaden element nie jest zaznaczony</system:String>
+    <system:String x:Key="btnCopyPTTX">Kopiuje ścieżkę zaznaczonych elementów lub aktualnie otwartego folderu, jeśli żaden element nie jest zaznaczony</system:String>
     <system:String x:Key="btnPasteScCP">Wklej skrót</system:String>
     <system:String x:Key="tgOrganizeCP">Organizuj</system:String>
     <system:String x:Key="btnCopyToCP">Kopiuj do</system:String>
@@ -101,7 +101,7 @@
     <system:String x:Key="btnctDownloadsCP">Pobrane</system:String>
     <system:String x:Key="miOtherDestCP">Inne miejsce</system:String>
     <system:String x:Key="btnDeleteCP">Usuń</system:String>
-    <system:String x:Key="miDeltoRB">Usuń do Kosza</system:String>
+    <system:String x:Key="miDeltoRB">Przenieś do kosza</system:String>
     <system:String x:Key="miDeltoP">Usuń trwale</system:String>
     <system:String x:Key="btnRenameCP">Zmień nazwę</system:String>
     <system:String x:Key="tgNewCP">Nowy</system:String>
@@ -123,7 +123,7 @@
     <system:String x:Key="miCondSelectCP">Więcej filtrów...</system:String>
     <system:String x:Key="tgTabsCP">Karty</system:String>
     <system:String x:Key="btnNewTabCP">Nowa karta</system:String>
-    <system:String x:Key="btnCloneTabCP">Duplikuj kartę</system:String>
+    <system:String x:Key="btnCloneTabCP">Powiel kartę</system:String>
     <system:String x:Key="btnCloseTabCP">Zamknij kartę</system:String>
     <system:String x:Key="btnNewTabTCP">Otwórz nową kartę (CTRL + T)</system:String>
     <system:String x:Key="btnNewTabTTX">Otwórz nową kartę obok obecnej w domyślnej lokalizacji</system:String>
@@ -253,7 +253,7 @@
     <system:String x:Key="chkOpenResultsCP">Pokaż pliki po zakończeniu</system:String>
     <system:String x:Key="btnCheckArchiveCP">Sprawdź spójność</system:String>
     <system:String x:Key="btnViewArchiveCP">Wyświetl archiwum</system:String>
-    <system:String x:Key="btnExitCP">Wyjście</system:String>
+    <system:String x:Key="btnExitCP">Zakończ</system:String>
     <system:String x:Key="SearchBarResetCP">Przywróć rozmiar</system:String>
     <system:String x:Key="ctbSearchToolsCP">Narzędzia wyszukiwania</system:String>
     <system:String x:Key="tabSearchCP">Wyszukaj</system:String>
@@ -282,21 +282,21 @@
     <system:String x:Key="miDateCustomCP">Własny zakres czasu...</system:String>
     <system:String x:Key="btnODateModCP">Data modyfikacji</system:String>
     <system:String x:Key="btnExtCP">Rozszerzenie</system:String>
-    <system:String x:Key="btnAuthorCP">Autor/Artysta</system:String>
+    <system:String x:Key="btnAuthorCP">Autor/wykonawca</system:String>
     <system:String x:Key="btnSubjectCP">Tytuł</system:String>
     <system:String x:Key="btnSearchCP">Wyszukaj teraz</system:String>
     <system:String x:Key="btnSave">Zapisz</system:String>
     <system:String x:Key="btnSaveAs">Zapisz jako</system:String>
     <system:String x:Key="btnAddTab">Nowa karta</system:String>
-    <system:String x:Key="txtTabManager">Menadżer kart</system:String>
+    <system:String x:Key="txtTabManager">Menedżer kart</system:String>
     <system:String x:Key="btnClose">Zamknij</system:String>
-    <system:String x:Key="btnOpenFolder">Otwórz Folder</system:String>
+    <system:String x:Key="btnOpenFolder">Otwórz folder</system:String>
     <system:String x:Key="txtName">Nazwa</system:String>
     <system:String x:Key="txtPath">Ścieżka</system:String>
-    <system:String x:Key="txtChooseName">Wybierz nazwę dla tej kolekcji kart</system:String>
-    <system:String x:Key="txtOverwriteSavedTabs">Jeśli kolekcja o takiej nazwie już istnieje, to zostanie zastąpiona</system:String>
+    <system:String x:Key="txtChooseName">Proszę wprowadzić nazwę dla tej kolekcji kart</system:String>
+    <system:String x:Key="txtOverwriteSavedTabs">Jeśli kolekcja o takiej samej nazwie już istnieje, to zostanie zastąpiona</system:String>
     <system:String x:Key="txtIllegalCharacters">Niedozwolone znaki: \ / : * ? &lt; &gt; |</system:String>
-    <system:String x:Key="txtConfirmDelete">Czy na pewno chcesz usunąć tę kolekcję kart</system:String>
+    <system:String x:Key="txtConfirmDelete">Usunąć tę kolekcję kart?</system:String>
     <system:String x:Key="txtSizeChart">Wykres rozmiaru folderu/dysku</system:String>
     <system:String x:Key="txtLoadingSizeChart">Pobieranie rozmiaru podfolderów...</system:String>
     <system:String x:Key="txtResizeImage">Zmień rozmiar obrazu</system:String>
@@ -308,7 +308,7 @@
     <system:String x:Key="txtRemoveFiles">Usuń pliki</system:String>
     <system:String x:Key="txtArchiveFormat">Format archiwum</system:String>
     <system:String x:Key="txtArchiveSpeed">Szybkość kompresji</system:String>
-    <system:String x:Key="txtNamePassword">Nazwa / Hasło do archiwum</system:String>
+    <system:String x:Key="txtNamePassword">Nazwa / hasło do archiwum</system:String>
     <system:String x:Key="chkProtectArchive">Chroń archiwum hasłem:</system:String>
     <system:String x:Key="txtPassword">Hasło:</system:String>
     <system:String x:Key="txtConditionalSelect">Zaznacz pliki przy pomocy kryteriów</system:String>
@@ -362,11 +362,11 @@
     <!-- (Do you want to delete the folder? (direct object))-->
     <system:String x:Key="txtRecycleBin">kosza</system:String>
     <system:String x:Key="txtSeveralItems">kilka rzeczy</system:String>
-    <system:String x:Key="txtConfirmDeleteObject">Jesteś pewien, że chcesz przenieść ten {0} do {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObject">Jesteś pewien, że chcesz usunąć ten {0} na zawsze?</system:String>
-    <system:String x:Key="txtConfirmDeleteObjects">Jesteś pewien, że chcesz przenieść te {0} obiektów do {1}?</system:String>
-    <system:String x:Key="txtConfirmRemoveObjects">Jesteś pewien, że chcesz usunąć te {0} obiektów na zawsze?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Usuń kilka rzeczy</system:String>
+    <system:String x:Key="txtConfirmDeleteObject">Przenieść ten {0} do {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObject">Usunąć ten {0} na zawsze?</system:String>
+    <system:String x:Key="txtConfirmDeleteObjects">Przenieść te {0} obiektów do {1}?</system:String>
+    <system:String x:Key="txtConfirmRemoveObjects">Usunąć te {0} obiektów na zawsze?</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">Usuń kilka elementów</system:String>
     <!-- View tab -->
     <system:String x:Key="btnConsoleCP">Konsola</system:String>
     <!-- File tab -->
@@ -392,15 +392,15 @@
     <!-- Resize Image dialog -->
     <system:String x:Key="txtAspectRatio">Zachowaj proporcje</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
-    <system:String x:Key="txtMoreCommands">Więcej komend</system:String>
+    <system:String x:Key="txtMoreCommands">Więcej poleceń</system:String>
     <system:String x:Key="txtAdd">Dodaj</system:String>
     <system:String x:Key="txtRemove">Usuń</system:String>
     <system:String x:Key="txtMoveUp">Przenieś w górę</system:String>
     <system:String x:Key="txtMoveDown">Przenieś w dół</system:String>
-    <system:String x:Key="txtCustomizeQAT">Dostosuj Pasek Szybkiego dostępu</system:String>
-    <system:String x:Key="txtCustomizeRibbon">Dostosuj Wstążkę</system:String>
-    <system:String x:Key="txtQATCDesc">Dodaj lub usuń komendy z Paska Szybkiego dostępu:</system:String>
-    <system:String x:Key="txtRibbonGCDesc">Pokaż lub ukryj grupy komend na Wstążce:</system:String>
-    <system:String x:Key="txtRibbonBCDesc">Pokaż lub ukryj komendy na Wstążce:</system:String>
+    <system:String x:Key="txtCustomizeQAT">Dostosuj pasek szybkiego dostępu</system:String>
+    <system:String x:Key="txtCustomizeRibbon">Dostosuj wstążkę</system:String>
+    <system:String x:Key="txtQATCDesc">Dodaj lub usuń polecenia z paska szybkiego dostępu:</system:String>
+    <system:String x:Key="txtRibbonGCDesc">Pokaż lub ukryj grupy poleceń na wstążce:</system:String>
+    <system:String x:Key="txtRibbonBCDesc">Pokaż lub ukryj polecenia na wstążce:</system:String>
     <system:String x:Key="txtExperimental">Funkcja eksperymentalna</system:String>
 </ResourceDictionary>
